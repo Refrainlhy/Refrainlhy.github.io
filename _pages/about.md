@@ -14,6 +14,7 @@ I am a Research Assistant Professor at the Department of Computing at The Hong K
 * Data-driven Machine Learning
 * Data and Model Security
 * Large Language Models
+* Graph Neural Networks and Knowledge Base
 
 ## Publications
 * **Fight Fire with Fire: Towards Robust Graph Neural Networks on Dynamic Graphs via Actively Defense.**  
