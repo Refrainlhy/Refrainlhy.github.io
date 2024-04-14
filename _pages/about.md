@@ -47,8 +47,8 @@ The 28th International Conference on Database Systems for Advanced Applications 
 The 48th  IEEE International Conference on Data Engineering (**ICDE 2022**)
 
 
-* **Cache-based gnn system for dynamic graphs**  
- **Haoyang Li**, Lei Chen.
+* **Cache-based GNN System for Dynamic Graphs**  
+ **Haoyang Li**, Lei Chen.  
 The 30th ACM International Conference on Information and Knowledge Management ( **CIKM 2021**)
 
 
@@ -58,7 +58,7 @@ The 30th ACM International Conference on Information and Knowledge Management ( 
 The 26th International Conference on Database Systems for Advanced Applications (**DASFAA 2021**)
 
 
-* **KBPearl: a knowledge base population system supported by joint entity and relation linking**  
+* **KBPearl: a Knowledge Base Population System Supported by Joint Entity and Relation Linking**  
   Xueling Lin, **Haoyang Li**, Hao Xin, Zijian Li, Lei Chen.   
   The 46th International Conference on Very Large Databases (**VLDB 2021**)
 
