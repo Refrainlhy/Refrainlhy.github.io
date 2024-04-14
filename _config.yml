@@ -21,7 +21,7 @@ repository               : "refrainlhy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/haoyang1.jpg"
   name             : "Haoyang Li"
   pronouns         : # example: "she/her"  
   bio              : "PhD in HKUST"
