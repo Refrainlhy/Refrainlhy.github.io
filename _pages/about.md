@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant Professor at the Department of Computing at The Hong Kong Polytechnic University (PolyU). I obtained my Ph.D. degree in Computer Science and Engineering from the Hong Kong University of Science and Technology (HKUST) in 2023, advised by Prof. Lei Chen. Prior to that, I obtained my bachelor’s degree in Computer Science and Technology from ACM Honor Class at Huazhong University of Science and Technology (HUST) in 2018, advised by Prof. Hai Jin. 
+I am a Research Assistant Professor at the Department of Computing at The Hong Kong Polytechnic University (PolyU). I obtained my Ph.D. degree in Computer Science and Engineering from the Hong Kong University of Science and Technology (HKUST) in 2023, advised by Prof. Lei Chen. Prior to that, I obtained my Bachelor degree in Computer Science and Technology from ACM Honor Class at Huazhong University of Science and Technology (HUST) in 2018, advised by Prof. Hai Jin. 
 
 ## Research Interests
 * Data Management for Machine Learning
@@ -17,16 +17,16 @@ I am a Research Assistant Professor at the Department of Computing at The Hong K
 
 ## Publications
 * **Fight Fire with Fire: Towards Robust Graph Neural Networks on Dynamic Graphs via Actively Defense.**  
- **Haoyang Li**, Shimin Di, Calvin Hong Yi Li, Lei Chen, Xiafang Zhou.  
+ **Haoyang Li**, Shimin Di, Calvin Hong Yi Li, Lei Chen, Xiaofang Zhou.  
  The 50th International Conference on Very Large Databases (**VLDB 2024**)
 
 * **E2GCL: Efficient and Expressive Contrastive Learning on Graph Neural Networks.**  
- **Haoyang Li**, Shimin Di, Lei Chen, Xiafang Zhou.  
+ **Haoyang Li**, Shimin Di, Lei Chen, Xiaofang Zhou.  
  The 50th  IEEE International Conference on Data Engineering (**ICDE 2024**)
   
 
 * **Effective Data Selection and Replay for Unsupervised Continual Learning**    
- Hanmo Liu, Shimin Di, **Haoyang Li**, Shuangyin Li, Lei Chen, Xiafang Zhou.   
+ Hanmo Liu, Shimin Di, **Haoyang Li**, Shuangyin Li, Lei Chen, Xiaofang Zhou.   
  The 50th  IEEE International Conference on Data Engineering (**ICDE 2024**)
 
 * **EARLY: Efficient and Reliable Graph Neural Network for Dynamic Graphs**  
