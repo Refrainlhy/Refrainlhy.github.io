@@ -14,7 +14,7 @@ I am currently a Research Assistant Professor at the Department of Computing at 
 * Data-driven Machine Learning
 * Data and Model Security
 * Large Language Models
-* Graph Neural Networks and Knowledge Base
+* Graph Neural Networks and Knowledge Bases
 
 ## Publications
 * **Fight Fire with Fire: Towards Robust Graph Neural Networks on Dynamic Graphs via Actively Defense.**  
