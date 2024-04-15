@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant Professor at the Department of Computing at The Hong Kong Polytechnic University (PolyU). I obtained my Ph.D. degree in Computer Science and Engineering from the Hong Kong University of Science and Technology (HKUST) in 2023, advised by Prof. Lei Chen. Prior to that, I obtained my Bachelor's degree in Computer Science and Technology from ACM Honor Class at Huazhong University of Science and Technology (HUST) in 2018, advised by Prof. Hai Jin. 
+I am a Research Assistant Professor at the Department of Computing at The Hong Kong Polytechnic University (PolyU). I obtained my Ph.D. degree in Computer Science and Engineering from the Hong Kong University of Science and Technology (HKUST) in 2023, advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/). Prior to that, I obtained my Bachelor's degree in Computer Science and Technology from ACM Honor Class at Huazhong University of Science and Technology (HUST) in 2018, advised by [Prof. Hai Jin](http://english.cs.hust.edu.cn/info/1296/1201.htm). 
 
 ## Research Interests
 * Data Management for Machine Learning
@@ -63,4 +63,3 @@ The 26th International Conference on Database Systems for Advanced Applications 
   Xueling Lin, **Haoyang Li**, Hao Xin, Zijian Li, Lei Chen.   
   The 46th International Conference on Very Large Databases (**VLDB 2021**)
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=h49ibSVJuxf3rmAoUXTXgugPXzPnKvYnNdIAZjiuU6s&cl=ffffff&w=a"></script>
