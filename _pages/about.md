@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant Professor at the Department of Computing at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/). I obtained my Ph.D. degree in Computer Science and Engineering from [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2023, advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/). Prior to that, I obtained my Bachelor's degree in Computer Science and Technology from ACM Honor Class at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in 2018, advised by [Prof. Hai Jin](http://english.cs.hust.edu.cn/info/1296/1201.htm). 
+I am a Research Assistant Professor at the Department of Computing at [the Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/). I obtained my Ph.D. degree in Computer Science and Engineering from [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2023, advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/). Prior to that, I obtained my Bachelor's degree in Computer Science and Technology from ACM Honor Class at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in 2018, advised by [Prof. Hai Jin](http://english.cs.hust.edu.cn/info/1296/1201.htm). 
 
 ## Research Interests
 * Data Management for Machine Learning
@@ -23,12 +23,12 @@ I am a Research Assistant Professor at the Department of Computing at [The Hong 
 
 * **E2GCL: Efficient and Expressive Contrastive Learning on Graph Neural Networks.**  
  **Haoyang Li**, Shimin Di, Lei Chen, Xiaofang Zhou.  
- The 50th  IEEE International Conference on Data Engineering (**ICDE 2024**)
+ The 40th  IEEE International Conference on Data Engineering (**ICDE 2024**)
   
 
 * **Effective Data Selection and Replay for Unsupervised Continual Learning**    
  Hanmo Liu, Shimin Di, **Haoyang Li**, Shuangyin Li, Lei Chen, Xiaofang Zhou.   
- The 50th  IEEE International Conference on Data Engineering (**ICDE 2024**)
+ The 40th  IEEE International Conference on Data Engineering (**ICDE 2024**)
 
 * **EARLY: Efficient and Reliable Graph Neural Network for Dynamic Graphs**  
  **Haoyang Li**, Lei Chen.  
@@ -45,7 +45,7 @@ The 28th International Conference on Database Systems for Advanced Applications 
 
 * **Black-box Adversarial Attack and Defense on Graph Neural Networks**  
  **Haoyang Li**, Shimin Di, Zijian Li, Lei Chen.  
-The 48th  IEEE International Conference on Data Engineering (**ICDE 2022**)
+The 38th  IEEE International Conference on Data Engineering (**ICDE 2022**)
 
 
 * **Cache-based GNN System for Dynamic Graphs**  
@@ -61,5 +61,5 @@ The 26th International Conference on Database Systems for Advanced Applications 
 
 * **KBPearl: a Knowledge Base Population System Supported by Joint Entity and Relation Linking**  
   Xueling Lin, **Haoyang Li**, Hao Xin, Zijian Li, Lei Chen.   
-  The 46th International Conference on Very Large Databases (**VLDB 2021**)
+  The 46th International Conference on Very Large Databases (**VLDB 2020**)
 
