@@ -44,13 +44,13 @@ The 28th International Conference on Database Systems for Advanced Applications 
 
 
 * **Black-box Adversarial Attack and Defense on Graph Neural Networks**  
- **Haoyang Li**, Shimin Di, Zijian Li, Lei Chen.  
+ **Haoyang Li**, Shimin Di, Zijian Li, Lei Chen, Jiannong Cao.  
 The 38th  IEEE International Conference on Data Engineering (**ICDE 2022**)
 
 
 * **Cache-based GNN System for Dynamic Graphs**  
  **Haoyang Li**, Lei Chen.  
-The 30th ACM International Conference on Information and Knowledge Management ( **CIKM 2021**)
+The 30th ACM International Conference on Information and Knowledge Management (**CIKM 2021**)
 
 
 
