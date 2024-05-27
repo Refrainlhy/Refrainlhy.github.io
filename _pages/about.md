@@ -9,6 +9,15 @@ redirect_from:
 
 I am currently a Research Assistant Professor at the Department of Computing at [the Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/). I received my Ph.D. degree in Computer Science and Engineering from [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2023, advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/). Prior to that, I received my Bachelor's degree in Computer Science and Technology from ACM Honor Class at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in 2018, advised by [Prof. Hai Jin](http://english.cs.hust.edu.cn/info/1296/1201.htm). 
 
+<span style="color:darkred">
+  
+**Job Opening**
+* I am seeking highly self-motivated research assistants (RAs) with strong coding skills (i.e., ACM competition award, CCF test score > 320, etc.). The topics of current research projects include large language models, self supervised-learning, adversarial machine learning, etc. If you are interested, please send me your CV and transcripts. All CVs will be carefully evaluated, and matched candidates will be contacted. Thank you!
+  
+* Senior undergraduate and master's students (from PolyU, mainland universities, etc.) who are eager to join our research projects and publish papers are also welcome. Please send your CV and transcripts as well.
+</span>
+
+
 ## Research Interests
 * Data Management for Machine Learning
 * Data-driven Machine Learning
