@@ -15,7 +15,7 @@ I am currently a Research Assistant Professor at the Department of Computing at 
  The topics of current research projects include large language models, self supervised-learning, adversarial machine learning, etc. If you are interested, please send me your CV and transcripts. Thank you!
  </font>
  
-* <font color="darkred"> I am seeking highly self-motivated research assistants (RAs) with strong coding skills (i.e., ACM-ICPC competition award/experience, CCF-CSP test score $\geq 320$, etc.). </font>
+* <font color="darkred"> I am seeking highly self-motivated research assistants (RAs) with strong coding skills (i.e., ACM-ICPC competition award/experience, CCF-CSP test score >= 320, etc.). </font>
 
   
 * <font color="darkred"> Senior undergraduate and master's students (from PolyU, mainland universities, etc.) who are eager to join our research projects and publish papers are also welcome.   </font>
