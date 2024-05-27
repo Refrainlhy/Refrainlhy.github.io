@@ -9,16 +9,16 @@ redirect_from:
 
 I am currently a Research Assistant Professor at the Department of Computing at [the Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/). I received my Ph.D. degree in Computer Science and Engineering from [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2023, advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/). Prior to that, I received my Bachelor's degree in Computer Science and Technology from ACM Honor Class at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in 2018, advised by [Prof. Hai Jin](http://english.cs.hust.edu.cn/info/1296/1201.htm). 
 
- **<font color="violetred">Position Opening</font>**
+ **<font color="#de42bc">Position Opening</font>**
  
-<font color="violetred">
+<font color="#de42bc">
  The topics of current research projects include large language models, self supervised-learning, adversarial machine learning, etc. If you are interested, please send me your CV and transcripts. Thank you!
  </font>
  
-* <font color="violetred"> I am seeking highly self-motivated research assistants (RAs) with strong coding skills (i.e., ACM-ICPC competition award/experience, CCF-CSP test score >= 320, etc.). </font>
+* <font color="#de42bc"> I am seeking highly self-motivated research assistants (RAs) with strong coding skills (i.e., ACM-ICPC competition award/experience, CCF-CSP test score >= 320, etc.). </font>
 
   
-* <font color="violetred"> Senior undergraduate and master's students (from PolyU, mainland universities, etc.), who are are interested in our research topics, and want to publish papers or finish thesis, are also welcome.   </font>
+* <font color="#de42bc"> Senior undergraduate and master's students (from PolyU, mainland universities, etc.), who are are interested in our research topics, and want to publish papers or finish thesis, are also welcome.   </font>
 
  
 
