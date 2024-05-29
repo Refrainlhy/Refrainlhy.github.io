@@ -17,7 +17,7 @@ Email and address: haoyang-comp.li@polyu.edu.hk, PQ821 PolyU
  The topics of current research projects include large language models, self supervised-learning, adversarial machine learning, etc. If you are interested, please send me your CV and transcripts. Thank you!
  </font>
  
-* <font color="#CE1126"> I am seeking highly self-motivated research assistants (RAs) with strong coding skills (i.e., ACM-ICPC competition award/experience, CCF-CSP test score >= 320, etc.). </font>
+* <font color="#CE1126"> I am seeking highly self-motivated research assistants (RAs) with strong coding skills. </font>
 
   
 * <font color="#CE1126"> Senior undergraduate and master's students (from PolyU, mainland universities, etc.), who are interested in our research topics, and want to publish papers or finish thesis, are also welcome.   </font>
