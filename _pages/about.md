@@ -31,7 +31,7 @@ Email and address: haoyang-comp.li@polyu.edu.hk, PQ821 PolyU
 * Large Language Models
 * Graph Neural Networks and Knowledge Bases
 
-## Publications
+## Publications [[Full List](https://scholar.google.com.hk/citations?user=r1UMbh0AAAAJ&hl=en)]
 * **Fight Fire with Fire: Towards Robust Graph Neural Networks on Dynamic Graphs via Actively Defense.**  
  **Haoyang Li**, Shimin Di, Calvin Hong Yi Li, Lei Chen, Xiaofang Zhou.  
  The 50th International Conference on Very Large Databases (**VLDB 2024**)
