@@ -20,10 +20,12 @@ Email and address: haoyang-comp.li@polyu.edu.hk, PQ810 PolyU
 * <font color="#CE1126"> I am seeking highly self-motivated research assistants (RAs) with strong coding skills. </font>
 
   
-* <font color="#CE1126"> Senior undergraduate and master's students with strong coding skills (from PolyU, mainland universities, etc.), who are interested in our research topics, and want to publish papers or finish thesis, are also welcome.   </font>
+* <font color="#CE1126"> Self-motivated undergraduate and master's students with strong coding skills (from PolyU, mainland universities, etc.), who are interested in our research topics, and want to publish papers or finish thesis, are also welcome.   </font>
 
+<font color="#CE1126">
+P.S.: I will personally mentor all students, including interns, research assistants, and PhD/MPhil candidates. Additionally, I may invite other excellent PhD graduates to provide guidance as needed.
+</font>
  
-
 ## Research Interests
 * Data Management for Machine Learning
 * Data-driven Machine Learning
