@@ -21,7 +21,9 @@ Email and address: haoyang-comp.li@polyu.edu.hk, PQ810 PolyU
 
 * <font color="#CE1126"> The PhD positions starting from  2025/09 or later are now open. The admitted PhD candidate will be supervised by myself and our department head Prof. Qing Li. </font>
   
-* <font color="#CE1126"> Self-motivated undergraduate and master's students with strong coding skills (from PolyU, mainland universities, etc.), who are interested in our research topics, and want to publish papers or finish thesis, are also welcome.   </font>
+* <font color="#CE1126"> Self-motivated undergraduate and master's students with strong coding skills (from PolyU, mainland universities, etc.), who are interested in our research topics, are also welcome. These students will be given priority consideration for PhD opportunities.   </font>
+
+* <font color="#CE1126">MSc students at PolyU who seek a dissertation supervisor.  Limited quotas are available. </font>
 
 <font color="#CE1126">
 P.S.: I will personally mentor all students, including interns, research assistants, and PhD/MPhil candidates. Additionally, I may invite other excellent PhD graduates to provide guidance as needed.
@@ -80,4 +82,9 @@ The 26th International Conference on Database Systems for Advanced Applications 
 * **KBPearl: a Knowledge Base Population System Supported by Joint Entity and Relation Linking**  
   Xueling Lin, **Haoyang Li**, Hao Xin, Zijian Li, Lei Chen.   
   The 46th International Conference on Very Large Databases (**VLDB 2020**)
+
+  ## Academic Service
+* **PC member:** ICDE 2025, AAAI 2025, DASFAA 2024, ECAI 2024
+* **Conference Reviewer:** NeurIPS 2024/2023, ICLR 2024/2023, ICML 2024/2023
+* **Journal Reviewer:** TKDE, TBD
 
