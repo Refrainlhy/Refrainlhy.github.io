@@ -17,7 +17,7 @@ Email and address: haoyang-comp.li@polyu.edu.hk, PQ810 PolyU
  The topics of current research projects include large language models, self supervised-learning, adversarial machine learning, etc. If you are interested, please send me your CV and transcripts. Thank you!
  </font>
  
-* <font color="#CE1126"> Self-motivated Research Assistants (RAs) with strong coding skills are seeked. </font>
+* <font color="#CE1126"> Self-motivated full-time Research Assistants (RAs) with strong coding skills are seeked. Part-time positions are NOT available. </font>
 
 * <font color="#CE1126"> The PhD positions starting from  2025/09 or later are now open. The admitted PhD candidate will be supervised by myself and our department head Prof. Qing Li. </font>
   
