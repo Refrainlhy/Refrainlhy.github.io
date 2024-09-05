@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently an Assistant Professor (Research) at the Department of Computing at [the Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/). I received my Ph.D. degree in Computer Science and Engineering from [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2023, advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/). Prior to that, I received my Bachelor's degree in Computer Science and Technology from ACM Honor Class at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in 2018, advised by [Prof. Hai Jin](http://english.cs.hust.edu.cn/info/1296/1201.htm). 
 
-Email and address: haoyang-comp.li@polyu.edu.hk, PQ810 PolyU. If you'd like to come to the office to chat, please send me an email or WeChat message in advance to find a mutually available time slot.
+Email and address: haoyang-comp.li@polyu.edu.hk, PQ810 PolyU. If you'd like to come to the office to chat with me, please send me an email or WeChat message in advance to find a mutually available time slot.
 
 
  **<font color="#CE1126">Position Opening</font>**
