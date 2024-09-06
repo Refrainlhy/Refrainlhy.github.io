@@ -9,18 +9,20 @@ redirect_from:
 
 I am currently an Assistant Professor (Research) at the Department of Computing at [the Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/). I received my Ph.D. degree in Computer Science and Engineering from [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2023, advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/). Prior to that, I received my Bachelor's degree in Computer Science and Technology from ACM Honor Class at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in 2018, advised by [Prof. Hai Jin](http://english.cs.hust.edu.cn/info/1296/1201.htm). 
 
-Email and address: haoyang-comp.li@polyu.edu.hk, PQ810 PolyU. If you'd like to come to the office to chat with me, please send me an email or WeChat message in advance to find a mutually available time slot.
+Email and address: haoyang-comp.li@polyu.edu.hk, PQ810 PolyU. 
+
+If you'd like to come to the office to chat with me, please send me an email or WeChat message in advance to find a mutually available time slot.
 
 
  **<font color="#CE1126">Position Opening</font>**
  
 <font color="#CE1126">
- The topics of current research projects include large language models, self supervised-learning, adversarial machine learning, etc. If you are interested, please send me your CV and transcripts. I check emails weekly. Thank you!
+ The topics of current research projects include large language models, self supervised-learning, adversarial machine learning, etc. If you are interested, please send me your CV and transcripts. I check these application emails weekly. Thank you!
  </font>
  
-* <font color="#CE1126"> Self-motivated full-time Research Assistants (RAs) with strong coding skills are seeked. Part-time positions are NOT available. </font>
+* <font color="#CE1126"> Self-motivated full-time Research Assistants (RAs) with strong coding skills are seeked. Part-time RA positions are NOT available. </font>
 
-* <font color="#CE1126"> The PhD positions starting from  2025/09 or later are now open. The admitted PhD candidate will be supervised by myself and our department head Prof. Qing Li. </font>
+* <font color="#CE1126"> The PhD positions starting from  2025/09 or later are now open. The admitted PhD candidate will be supervised by myself and our department head Prof. Qing Li.   </font>
   
 * <font color="#CE1126"> Self-motivated undergraduate and master's students with strong coding skills (from PolyU, mainland universities, etc.), who are interested in our research topics, are also welcome. These students will be given priority consideration for PhD opportunities.   </font>
 
