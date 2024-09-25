@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor (Research) at the Department of Computing at [the Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/). I received my Ph.D. degree in Computer Science and Engineering from [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2023, advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/). Prior to that, I received my Bachelor's degree in Computer Science and Technology from ACM Honor Class at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in 2018, advised by [Prof. Hai Jin](http://english.cs.hust.edu.cn/info/1296/1201.htm). 
+I am currently an Assistant Professor (Research) at the Department of Computing at [the Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/). I received my Ph.D. degree in Computer Science and Engineering from [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2023, advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/). Prior to that, I received my Bachelor's degree in Computer Science and Technology from the ACM Honor Class at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in 2018, advised by [Prof. Hai Jin](http://english.cs.hust.edu.cn/info/1296/1201.htm). 
 
 Email and address: haoyang-comp.li@polyu.edu.hk, PQ810 PolyU. 
 
@@ -17,7 +17,7 @@ If you'd like to come to the office to chat with me, please send me an email or 
  **<font color="#CE1126">Position Opening</font>**
  
 <font color="#CE1126">
- The topics of current research projects include large language models, self supervised-learning, adversarial machine learning, etc. If you are interested, please send me your CV and transcripts. I check these application emails weekly. Thank you!
+ The topics of current research projects include large language models, self supervised-learning, adversarial machine learning, etc. If you are interested, please send me your CV and transcripts. Thank you!
  </font>
  
 * <font color="#CE1126"> Self-motivated full-time Research Assistants (RAs) with strong coding skills are seeked. Part-time RA positions are NOT available. </font>
