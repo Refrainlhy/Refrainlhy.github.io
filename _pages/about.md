@@ -26,7 +26,7 @@ If you'd like to come to the office to chat with me, please send me an email or 
   
 * <font color="#CE1126"> Self-motivated undergraduate and master's students with strong coding skills (from PolyU, mainland universities, etc.), who are interested in our research topics, are also welcome. These students will be given priority consideration for PhD opportunities.   </font>
 
-* <font color="#CE1126">MSc students at PolyU who seek a dissertation supervisor.  Limited quotas are available. </font>
+* <font color="#CE1126">MSc students at PolyU who seek a dissertation supervisor. Only 1-2 quotas are available now (2024/9/25). </font>
 
 <font color="#CE1126">
 P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPhil candidates. Additionally, I may invite other excellent PhD graduates to provide guidance as needed.
