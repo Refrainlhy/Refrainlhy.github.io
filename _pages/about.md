@@ -40,11 +40,11 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
 * Graph Neural Networks and Knowledge Bases
 
 ## Publications [[Full List](https://scholar.google.com.hk/citations?user=r1UMbh0AAAAJ&hl=en)]
-* **Fight Fire with Fire: Towards Robust Graph Neural Networks on Dynamic Graphs via Actively Defense.**  
+* **Fight Fire with Fire: Towards Robust Graph Neural Networks on Dynamic Graphs via Actively Defense**  
  **Haoyang Li**, Shimin Di, Calvin Hong Yi Li, Lei Chen, Xiaofang Zhou.  
  The 50th International Conference on Very Large Databases (**VLDB 2024**)
 
-* **E2GCL: Efficient and Expressive Contrastive Learning on Graph Neural Networks.**  
+* **E2GCL: Efficient and Expressive Contrastive Learning on Graph Neural Networks**  
  **Haoyang Li**, Shimin Di, Lei Chen, Xiaofang Zhou.  
  The 40th  IEEE International Conference on Data Engineering (**ICDE 2024**)
   
@@ -88,6 +88,6 @@ The 26th International Conference on Database Systems for Advanced Applications 
 
   ## Academic Service
 * **PC member:** WWW 2025, ICDE 2025, AAAI 2025,  DASFAA 2024, ECAI 2024, RobustRecSys 2024,
-* **Conference Reviewer:** NeurIPS 2024/2023, ICLR 2024/2023, ICML 2024/2023, WWW 2021/2022, KDD 2020/2021/2022
-* **Journal Reviewer:** TKDE, TBD
+* **Conference Reviewer:** AISTATS 2025, ICLR 2025/2024/2023, NeurIPS 2024/2023, ICML 2024/2023, WWW 2021/2022, KDD 2020/2021/2022
+* **Journal Reviewer:** TKDE, TOIS, TBD
 
