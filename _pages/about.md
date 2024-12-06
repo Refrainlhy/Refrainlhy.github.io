@@ -87,7 +87,7 @@ The 26th International Conference on Database Systems for Advanced Applications 
   The 46th International Conference on Very Large Databases (**VLDB 2020**)
 
   ## Academic Service
-* **PC Member:** WWW 2025, ICDE 2025, AAAI 2025,  DASFAA 2024, ECAI 2024, RobustRecSys 2024,
+* **PC Member:** WWW 2025, ICDE 2025, AAAI 2025,  DASFAA 2025/2024, ECAI 2024, RobustRecSys 2024,
 * **Conference Reviewer:** AISTATS 2025, ICLR 2025/2024/2023, NeurIPS 2024/2023, ICML 2024/2023, WWW 2021/2022, KDD 2020/2021/2022
 * **Journal Reviewer:** TKDE, TOIS, TBD
 
