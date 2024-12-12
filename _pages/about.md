@@ -11,8 +11,7 @@ I am currently an Assistant Professor (Research) at the Department of Computing 
 
 Email and address: haoyang-comp.li@polyu.edu.hk, PQ810 PolyU. 
 
-If you'd like to come to the office to chat with me, please send me an email or WeChat message in advance to find a mutually available time slot.
-
+ 
 
  **<font color="#CE1126">Position Opening</font>**
  
@@ -87,7 +86,7 @@ The 26th International Conference on Database Systems for Advanced Applications 
   The 46th International Conference on Very Large Databases (**VLDB 2020**)
 
   ## Academic Service
-* **PC Member:** WWW 2025, ICDE 2025, AAAI 2025,  DASFAA 2025/2024, ECAI 2024, RobustRecSys 2024,
-* **Conference Reviewer:** AISTATS 2025, ICLR 2025/2024/2023, NeurIPS 2024/2023, ICML 2024/2023, WWW 2021/2022, KDD 2020/2021/2022
+* **PC Member:** WWW 2025, ICDE 2025, AAAI 2025,  DASFAA 2025/2024, ECAI 2024, RobustRecSys 2024
+* **Conference Reviewer:** AISTATS 2025, ICML 2025/2024/2023, ICLR 2025/2024/2023, NeurIPS 2024/2023,  WWW 2021/2022, KDD 2020/2021/2022
 * **Journal Reviewer:** TKDE, TOIS, TBD
 
