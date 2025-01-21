@@ -43,7 +43,7 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
 **\*** denotes Corresponding Author
 
 * **SIT: Selective Incremental Training for Dynamic Knowledge Graph Embedding**  
- Zhifeng Jia, Hanmo Liu, **Haoyang Li<sup>*</sup>**, Lei Chen.
+ Zhifeng Jia, Hanmo Liu, **Haoyang Li\***, Lei Chen.  
  The 41th  IEEE International Conference on Data Engineering (**ICDE 2025**)
 
   
