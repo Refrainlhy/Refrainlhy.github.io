@@ -86,15 +86,15 @@ The 30th ACM International Conference on Information and Knowledge Management (*
 
 * **Fine-Grained Entity Typing via Label Noise Reduction and Data Augmentation**  
  **Haoyang Li**, Xueling Lin, Lei Chen.   
-The 26th International Conference on Database Systems for Advanced Applications (**DASFAA 2021**)
+The 26th International Conference on Database Systems for Advanced Applications (**DASFAA 2021**) 
 
 
 * **KBPearl: a Knowledge Base Population System Supported by Joint Entity and Relation Linking**  
   Xueling Lin, **Haoyang Li**, Hao Xin, Zijian Li, Lei Chen.   
-  The 46th International Conference on Very Large Databases (**VLDB 2020**)
+  The 46th International Conference on Very Large Databases (**VLDB 2020**)  
 
   ## Academic Service
-* **PC Member:** WWW 2025, ICDE 2025, AAAI 2025,  DASFAA 2025/2024, ECAI 2024, RobustRecSys 2024
-* **Conference Reviewer:** AISTATS 2025, ICML 2025/2024/2023, ICLR 2025/2024/2023, NeurIPS 2024/2023,  WWW 2021/2022, KDD 2020/2021/2022
-* **Journal Reviewer:** TKDE, TOIS, TBD
+* **PC Member:** WWW 2025, ICDE 2025, AAAI 2025,  DASFAA 2025/2024, ECAI 2024, RobustRecSys 2024  
+* **Conference Reviewer:** KDD 2025-2020, AISTATS 2025, ICML 2025/2024/2023, ICLR 2025/2024/2023, NeurIPS 2024/2023,  WWW 2021/2022  
+* **Journal Reviewer:** TKDE, TOIS, TBD  
 
