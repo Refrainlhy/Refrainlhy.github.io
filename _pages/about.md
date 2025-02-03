@@ -19,7 +19,7 @@ Email and address: haoyang-comp.li@polyu.edu.hk, PQ810 PolyU.
  The topics of current research projects include large language models, self supervised-learning, adversarial machine learning, etc. If you are interested, please send me your CV and transcripts. Thank you!
  </font>
 
-* <font color="#CE1126">MSc students at PolyU who seek a dissertation supervisor. Please attach your CV and transcripts.  The COMP 5941 for artifical intelligence and big data is full (2025/01/15). COMP 5940 is available. </font>
+* <font color="#CE1126">MSc students at PolyU who seek a dissertation supervisor. Please attach your CV and transcripts.  The COMP 5941 for artifical intelligence and big data is full (2025/01/15). </font>
 
 
 * <font color="#CE1126"> The PhD positions starting from  2025/09 or later are now open. The admitted PhD candidate will be supervised by myself and our department head Prof. Qing Li.   </font>
