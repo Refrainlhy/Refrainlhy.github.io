@@ -39,6 +39,32 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
 * Large Language Models
 * Graph Neural Networks and Knowledge Bases
 
+## Selected Preprints  
+
+* **A Survey on Large Language Model Acceleration based on KV Cache Management**  
+**Haoyang Li**, Yiming Li, Anxin Tian, Tianhao Tang, Zhanchao Xu, Xuejia Chen, Nicole Hu, Wei Dong, Qing Li, Lei Chen.
+
+* **Exposing Numeracy Gaps: A Benchmark to Evaluate Fundamental Numerical Abilities in Large Language Models**  
+**Haoyang Li**, Xuejia Chen, Zhanchao Xu, Darian Li, Nicole HU, Fei Teng, Yiming Li, Luyu QIU, Chen Jason Zhang, Li Qing, Lei Chen.
+
+* **When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction**     
+**Haoyang Li**, Yuming Xu, Yiming Li, Hanmo Liu, Darian Li, Chen Jason Zhang, Lei Chen, Qing Li.
+
+* **Revisiting Graph Neural Networks on Graph-level Tasks: Comprehensive Experiments, Analysis, and Improvements**   
+**Haoyang Li**, Yuming Xu, Chen Jason Zhang, Alexander Zhou, Lei Chen, Qing Li.
+
+* **LLMLog: Advanced Log Template Generation via LLM-driven Multi-Round Annotation**   
+ Fei Teng, **Haoyang Li**, Lei Chen.
+
+
+* **GORAG: Graph-based Retrieval Augmented Generation for Dynamic Few-shot Text Classification**    
+ Yubo Wang, **Haoyang Li**,  Fei Teng, Lei Chen.
+
+* **Activation-aware Probe-Query: Effective Key-Value Retrieval for Long-Context LLMs Inference**   
+ Qingfa Xiao, Jiachuan Wang, **Haoyang Li**, Cheng Deng, Jiaqi Tang, Shuangyin Li, Yongqi Zhang, Jun Wang, Lei Chen.
+
+
+
 ## Publications [[Full List](https://scholar.google.com.hk/citations?user=r1UMbh0AAAAJ&hl=en)]
 **\*** denotes Corresponding Author
 
