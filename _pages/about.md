@@ -27,7 +27,10 @@ Email and address: haoyang-comp.li@polyu.edu.hk, PQ810 PolyU.
 * <font color="#CE1126"> The PhD positions starting from  2025/09 or later are now open. The admitted PhD candidate will be supervised by myself and our department head Prof. Qing Li.   </font>
   
 
-* <font color="#CE1126"> Self-motivated full-time Research Assistants (RAs) with strong coding skills are seeked. Part-time RA positions are NOT available. </font>
+<!-- * <font color="#CE1126"> Self-motivated full-time Research Assistants (RAs) with strong coding skills are seeked. Part-time RA positions are NOT available. </font>-->
+
+* <font color="#CE1126"> Self-funded PhD/MPhil candidates and visiting scholars are also welcome. Please attach your CV and transcripts.</font>
+
 
 <font color="#CE1126">
 P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPhil candidates. Additionally, I may invite other excellent PhD graduates to provide guidance as needed.
