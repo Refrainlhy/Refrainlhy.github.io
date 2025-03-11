@@ -29,7 +29,7 @@ Email and address: haoyang-comp.li@polyu.edu.hk, PQ810 PolyU.
 
 <!-- * <font color="#CE1126"> Self-motivated full-time Research Assistants (RAs) with strong coding skills are seeked. Part-time RA positions are NOT available. </font>-->
 
-* <font color="#CE1126"> Self-funded PhD/MPhil candidates and visiting scholars are also welcome. Please attach your CV and transcripts.</font>
+* <font color="#CE1126"> Self-funded PhD/MPhil candidates and visiting scholars are also welcome.</font>
 
 
 <font color="#CE1126">
