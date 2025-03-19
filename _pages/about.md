@@ -21,6 +21,10 @@ Email and address: haoyang-comp.li@polyu.edu.hk, PQ810 PolyU.
 
 <!-- * <font color="#CE1126">MSc students at PolyU who seek a dissertation supervisor. Please attach your CV and transcripts.  The COMP 5941 for artifical intelligence and big data is full (2025/01/15). </font> -->
 
+
+* <font color="#CE1126"> For PolyU undergraduates, if you choose me as your capstone supervisor, you will work on the most advanced AI work. But please note that hard work will result in a good score, while lack of effort, missed deadlines, or poor teamwork will lead to a lower score. </font>
+
+
 * <font color="#CE1126"> Self-motivated undergraduate and master's students with strong coding skills (from PolyU, mainland universities, etc.), who are interested in our research topics, are also welcome. These students will be given priority consideration for PhD opportunities.   </font>
 
 
@@ -30,6 +34,9 @@ Email and address: haoyang-comp.li@polyu.edu.hk, PQ810 PolyU.
 <!-- * <font color="#CE1126"> Self-motivated full-time Research Assistants (RAs) with strong coding skills are seeked. Part-time RA positions are NOT available. </font>-->
 
 * <font color="#CE1126"> Self-funded PhD/MPhil candidates and visiting scholars are also welcome.</font>
+
+
+
 
 
 <font color="#CE1126">
