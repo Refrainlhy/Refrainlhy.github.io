@@ -51,6 +51,8 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
 * Graph Neural Networks and Knowledge Bases
 
 ## Selected Preprints  
+* **A Selective Learning Method for Temporal Graph Continual Learning**    
+Hanmo Liu, Shimin Di, **Haoyang Li**, Xun Jian, Yue Wang, Lei Chen
 
 * **A Survey on Large Language Model Acceleration based on KV Cache Management**  
 **Haoyang Li**, Yiming Li, Anxin Tian, Tianhao Tang, Zhanchao Xu, Xuejia Chen, Nicole Hu, Wei Dong, Qing Li, Lei Chen.
