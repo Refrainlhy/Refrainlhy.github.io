@@ -51,6 +51,9 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
 * Graph Neural Networks and Knowledge Bases
 
 ## Selected Preprints  
+* **PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing**    
+Cheng Deng, Luoyang Sun, ..., **Haoyang Li**, Lei Chen, Lionel M Ni, Haifeng Zhang, Jun Wang
+
 * **A Selective Learning Method for Temporal Graph Continual Learning**    
 Hanmo Liu, Shimin Di, **Haoyang Li**, Xun Jian, Yue Wang, Lei Chen
 
