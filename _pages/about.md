@@ -51,6 +51,11 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
 * Graph Neural Networks and Knowledge Bases
 
 ## Selected Preprints  
+
+* **GraphKnow: An Efficient and Effective Graph Foundation Model for Diverse Graph Tasks**      
+
+
+
 * **PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing**    
 Cheng Deng, Luoyang Sun, ..., **Haoyang Li**, Lei Chen, Lionel M Ni, Haifeng Zhang, Jun Wang
 
