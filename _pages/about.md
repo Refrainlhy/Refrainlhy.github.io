@@ -54,7 +54,7 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
 
 * **GraphKnow: An Efficient and Effective Graph Foundation Model for Diverse Graph Tasks**      
 
-* **Learning Towards Emergence: Paving the Way to Induce Emergence by Inhibiting Monosemantic Neurons on Pre-trained Models**
+* **Learning Towards Emergence: Paving the Way to Induce Emergence by Inhibiting Monosemantic Neurons on Pre-trained Models**    
 Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xiaofang Zhou, Lei Chen
 
   
