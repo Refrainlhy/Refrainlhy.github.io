@@ -66,8 +66,7 @@ Cheng Deng, Luoyang Sun, ..., **Haoyang Li**, Lei Chen, Lionel M Ni, Haifeng Zha
 * **A Selective Learning Method for Temporal Graph Continual Learning**    
 Hanmo Liu, Shimin Di, **Haoyang Li**, Xun Jian, Yue Wang, Lei Chen
 
-* **A Survey on Large Language Model Acceleration based on KV Cache Management**  
-**Haoyang Li**, Yiming Li, Anxin Tian, Tianhao Tang, Zhanchao Xu, Xuejia Chen, Nicole Hu, Wei Dong, Qing Li, Lei Chen.
+
 
 * **Exposing Numeracy Gaps: A Benchmark to Evaluate Fundamental Numerical Abilities in Large Language Models**  
 **Haoyang Li**, Xuejia Chen, Zhanchao Xu, Darian Li, Nicole Hu, Fei Teng, Yiming Li, Luyu Qiu, Chen Jason Zhang, Qing Li, Lei Chen.
@@ -91,6 +90,11 @@ Hanmo Liu, Shimin Di, **Haoyang Li**, Xun Jian, Yue Wang, Lei Chen
 
 ## Publications [[Full List](https://scholar.google.com.hk/citations?user=r1UMbh0AAAAJ&hl=en)]
 **\*** denotes Corresponding Author
+
+* **A Survey on Large Language Model Acceleration based on KV Cache Management**  
+**Haoyang Li**, Yiming Li, Anxin Tian, Tianhao Tang, Zhanchao Xu, Xuejia Chen, Nicole Hu, Wei Dong, Qing Li, Lei Chen.   
+Transactions on Machine Learning Research (**TMLR 2025**)
+
 
 * **SIT: Selective Incremental Training for Dynamic Knowledge Graph Embedding**  
  Zhifeng Jia, Hanmo Liu, **Haoyang Li\***, Lei Chen.  
