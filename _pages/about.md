@@ -52,7 +52,11 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
 
 ## Selected Preprints  
 
-* **GraphKnow: An Efficient and Effective Graph Foundation Model for Diverse Graph Tasks**      
+* **GraphKnow: An Efficient and Effective Graph Foundation Model for Diverse Graph Tasks**
+
+* **Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees**   
+**Haoyang Li**, Yuming Xu, Chen Jason Zhang, Alexander Zhou, Lei Chen, Qing Li.
+
 
 * **Learning Towards Emergence: Paving the Way to Induce Emergence by Inhibiting Monosemantic Neurons on Pre-trained Models**    
 Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xiaofang Zhou, Lei Chen
@@ -74,7 +78,7 @@ Hanmo Liu, Shimin Di, **Haoyang Li**, Xun Jian, Yue Wang, Lei Chen
 * **When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction**     
 **Haoyang Li**, Yuming Xu, Yiming Li, Hanmo Liu, Darian Li, Chen Jason Zhang, Lei Chen, Qing Li.
 
-* **Revisiting Graph Neural Networks on Graph-level Tasks: Comprehensive Experiments, Analysis, and Improvements**   
+* **Revisiting Graph Neural Networks on Graph-level Tasks: Comprehensive Experiments and Analysis**   
 **Haoyang Li**, Yuming Xu, Chen Jason Zhang, Alexander Zhou, Lei Chen, Qing Li.
 
 * **LLMLog: Advanced Log Template Generation via LLM-driven Multi-Round Annotation**   
