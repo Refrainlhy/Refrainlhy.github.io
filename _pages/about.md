@@ -88,12 +88,12 @@ Transactions on Machine Learning Research (**TMLR 2025**)
 
 * **Exposing Numeracy Gaps: A Benchmark to Evaluate Fundamental Numerical Abilities in Large Language Models**  
 **Haoyang Li**, Xuejia Chen, Zhanchao Xu, Darian Li, Nicole Hu, Fei Teng, Yiming Li, Luyu Qiu, Chen Jason Zhang, Qing Li, Lei Chen.  
-The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL Findngs 2025**)
+The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**)
 
 
 * **LLMLog: Advanced Log Template Generation via LLM-driven Multi-Round Annotation**   
  Fei Teng, **Haoyang Li\***, Lei Chen.  
-51st International Conference on Very Large Data Base (**VLDB 2025**)
+The 51st International Conference on Very Large Data Base (**VLDB 2025**)
 
 
 * **A Selective Learning Method for Temporal Graph Continual Learning**    
