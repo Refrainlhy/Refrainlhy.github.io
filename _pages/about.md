@@ -67,13 +67,8 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 * **PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing**    
 Cheng Deng, Luoyang Sun, ..., **Haoyang Li**, Lei Chen, Lionel M Ni, Haifeng Zhang, Jun Wang
 
-* **A Selective Learning Method for Temporal Graph Continual Learning**    
-Hanmo Liu, Shimin Di, **Haoyang Li**, Xun Jian, Yue Wang, Lei Chen
 
 
-
-* **Exposing Numeracy Gaps: A Benchmark to Evaluate Fundamental Numerical Abilities in Large Language Models**  
-**Haoyang Li**, Xuejia Chen, Zhanchao Xu, Darian Li, Nicole Hu, Fei Teng, Yiming Li, Luyu Qiu, Chen Jason Zhang, Qing Li, Lei Chen.
 
 * **When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction**     
 **Haoyang Li**, Yuming Xu, Yiming Li, Hanmo Liu, Darian Li, Chen Jason Zhang, Lei Chen, Qing Li.
@@ -100,9 +95,26 @@ Hanmo Liu, Shimin Di, **Haoyang Li**, Xun Jian, Yue Wang, Lei Chen
 Transactions on Machine Learning Research (**TMLR 2025**)
 
 
+* **Exposing Numeracy Gaps: A Benchmark to Evaluate Fundamental Numerical Abilities in Large Language Models**  
+**Haoyang Li**, Xuejia Chen, Zhanchao Xu, Darian Li, Nicole Hu, Fei Teng, Yiming Li, Luyu Qiu, Chen Jason Zhang, Qing Li, Lei Chen.  
+The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL Findngs 2025**)
+
+
+* **LLMLog: Advanced Log Template Generation via LLM-driven Multi-Round Annotation**   
+ Fei Teng, **Haoyang Li\***, Lei Chen.  
+51st International Conference on Very Large Data Base (**VLDB 2025**)
+
+
+* **A Selective Learning Method for Temporal Graph Continual Learning**    
+Hanmo Liu, Shimin Di, **Haoyang Li**, Xun Jian, Yue Wang, Lei Chen.    
+The 42nd International Conference on Machine Learning (**ICML 2025**)
+
+
+
+
 * **SIT: Selective Incremental Training for Dynamic Knowledge Graph Embedding**  
  Zhifeng Jia, Hanmo Liu, **Haoyang Li\***, Lei Chen.  
- The 41th  IEEE International Conference on Data Engineering (**ICDE 2025**)
+ The 41st  IEEE International Conference on Data Engineering (**ICDE 2025**)
 
   
 * **Fight Fire with Fire: Towards Robust Graph Neural Networks on Dynamic Graphs via Actively Defense**  
