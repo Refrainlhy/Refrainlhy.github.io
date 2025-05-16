@@ -57,27 +57,18 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
 * **Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees**   
 **Haoyang Li**, Yuming Xu, Chen Jason Zhang, Alexander Zhou, Lei Chen, Qing Li.
 
-
 * **Learning Towards Emergence: Paving the Way to Induce Emergence by Inhibiting Monosemantic Neurons on Pre-trained Models**    
 Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xiaofang Zhou, Lei Chen
-
-  
 
 
 * **PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing**    
 Cheng Deng, Luoyang Sun, ..., **Haoyang Li**, Lei Chen, Lionel M Ni, Haifeng Zhang, Jun Wang
-
-
-
 
 * **When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction**     
 **Haoyang Li**, Yuming Xu, Yiming Li, Hanmo Liu, Darian Li, Chen Jason Zhang, Lei Chen, Qing Li.
 
 * **Revisiting Graph Neural Networks on Graph-level Tasks: Comprehensive Experiments and Analysis**   
 **Haoyang Li**, Yuming Xu, Chen Jason Zhang, Alexander Zhou, Lei Chen, Qing Li.
-
-* **LLMLog: Advanced Log Template Generation via LLM-driven Multi-Round Annotation**   
- Fei Teng, **Haoyang Li**, Lei Chen.
 
 * **GORAG: Graph-based Retrieval Augmented Generation for Dynamic Few-shot Text Classification**    
  Yubo Wang, **Haoyang Li**,  Fei Teng, Lei Chen.
