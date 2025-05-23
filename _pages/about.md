@@ -54,6 +54,9 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
 
 * **GraphKnow: An Efficient and Effective Graph Foundation Model for Diverse Graph Tasks**
 
+* **Dynamic Service Knowledge Base Construction at WeChat**  
+**Haoyang Li**, Ziyuan Zhao, Xueling Lin,  Alexander Zhou, Hao Xin, Fengmei Jin,  Qiang Yan, Tiezheng Mao,  Zijian Li,   Qing Li, Lei Chen   
+
 * **Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees**   
 **Haoyang Li**, Yuming Xu, Chen Jason Zhang, Alexander Zhou, Lei Chen, Qing Li.
 
