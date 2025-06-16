@@ -67,8 +67,6 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 * **PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing**    
 Cheng Deng, Luoyang Sun, ..., **Haoyang Li**, Lei Chen, Lionel M Ni, Haifeng Zhang, Jun Wang
 
-* **When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction**     
-**Haoyang Li**, Yuming Xu, Yiming Li, Hanmo Liu, Darian Li, Chen Jason Zhang, Lei Chen, Qing Li.
 
 * **Revisiting Graph Neural Networks on Graph-level Tasks: Comprehensive Experiments and Analysis**   
 **Haoyang Li**, Yuming Xu, Chen Jason Zhang, Alexander Zhou, Lei Chen, Qing Li.
@@ -83,6 +81,11 @@ Cheng Deng, Luoyang Sun, ..., **Haoyang Li**, Lei Chen, Lionel M Ni, Haifeng Zha
 
 ## Publications [[Full List](https://scholar.google.com.hk/citations?user=r1UMbh0AAAAJ&hl=en)]
 **\*** denotes Corresponding Author
+
+* **When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction**     
+**Haoyang Li**, Yuming Xu, Yiming Li, Hanmo Liu, Darian Li, Chen Jason Zhang, Lei Chen, Qing Li.  
+The 51st International Conference on Very Large Data Base (**VLDB 2025**)
+
 
 * **A Survey on Large Language Model Acceleration based on KV Cache Management**  
 **Haoyang Li**, Yiming Li, Anxin Tian, Tianhao Tang, Zhanchao Xu, Xuejia Chen, Nicole Hu, Wei Dong, Qing Li, Lei Chen.   
