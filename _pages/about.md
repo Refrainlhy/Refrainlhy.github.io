@@ -96,7 +96,7 @@ The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 
 
 
 * **DynaProtect: A Dynamic Factor Influence Learning Framework for Protective Factor-aware Suicide Risk Prediction**     
-Jun Li, Xiangmeng Wang, Yifei Yan, **Haoyang Li**, Hong Va Leong, Nancy Xiaonan Yu, Qing Li.
+Jun Li, Xiangmeng Wang, Yifei Yan, **Haoyang Li**, Hong Va Leong, Nancy Xiaonan Yu, Qing Li.  
 Companion Proceedings of the ACM on Web Conference 2025 （**WWW Tempweb 2025**）  
 
 
