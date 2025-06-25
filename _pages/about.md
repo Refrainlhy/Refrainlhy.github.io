@@ -22,7 +22,7 @@ Email and address: haoyang-comp.li@polyu.edu.hk, PQ810 PolyU.
 <!-- * <font color="#CE1126">MSc students at PolyU who seek a dissertation supervisor. Please attach your CV and transcripts.  The COMP 5941 for artifical intelligence and big data is full (2025/01/15). </font> -->
 
 
-* <font color="#CE1126"> For PolyU undergraduates, if you choose me as your capstone supervisor, you will work on the most advanced AI work. But please note that hard work will result in a good score, while lack of effort, missed deadlines, or poor teamwork will lead to a lower score. </font>
+<!-- * <font color="#CE1126"> For PolyU undergraduates, if you choose me as your capstone supervisor, you will work on the most advanced AI work. But please note that hard work will result in a good score, while lack of effort, missed deadlines, or poor teamwork will lead to a lower score. </font> -->
 
 
 * <font color="#CE1126"> Self-motivated undergraduate and master's students with strong coding skills (from PolyU, mainland universities, etc.), who are interested in our research topics, are also welcome. These students will be given priority consideration for PhD opportunities.   </font>
@@ -52,19 +52,10 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
 
 ## Selected Preprints  
 
-* **GraphKnow: An Efficient and Effective Graph Foundation Model for Diverse Graph Tasks**
 
-* **Dynamic Service Knowledge Base Construction at WeChat**  
-**Haoyang Li**, Ziyuan Zhao, Xueling Lin,  Alexander Zhou, Hao Xin, Fengmei Jin,  Qiang Yan, Tiezheng Mao,  Zijian Li,   Qing Li, Lei Chen   
+* **AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large Language Models**  
+  Kai Li, Can Shen,..., **Haoyang Li**, ..., Wei Dong, Xinfeng Li
 
-* **Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees**   
-**Haoyang Li**, Yuming Xu, Chen Jason Zhang, Alexander Zhou, Lei Chen, Qing Li.
-
-* **Revisiting Graph Neural Networks on Graph-level Tasks: Comprehensive Experiments and Analysis**   
-**Haoyang Li**, Yuming Xu, Chen Jason Zhang, Alexander Zhou, Lei Chen, Qing Li.
-
-* **Learning Towards Emergence: Paving the Way to Induce Emergence by Inhibiting Monosemantic Neurons on Pre-trained Models**    
-Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xiaofang Zhou, Lei Chen
 
 * **PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing**    
 Cheng Deng, Luoyang Sun, ..., **Haoyang Li**, Lei Chen, Lionel M Ni, Haifeng Zhang, Jun Wang
@@ -75,13 +66,27 @@ Cheng Deng, Luoyang Sun, ..., **Haoyang Li**, Lei Chen, Lionel M Ni, Haifeng Zha
 * **Activation-aware Probe-Query: Effective Key-Value Retrieval for Long-Context LLMs Inference**   
  Qingfa Xiao, Jiachuan Wang, **Haoyang Li**, Cheng Deng, Jiaqi Tang, Shuangyin Li, Yongqi Zhang, Jun Wang, Lei Chen.
 
+* **Learning Towards Emergence: Paving the Way to Induce Emergence by Inhibiting Monosemantic Neurons on Pre-trained Models**    
+Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xiaofang Zhou, Lei Chen
+
+* **Dynamic Service Knowledge Base Construction at WeChat**  
+**Haoyang Li**, Ziyuan Zhao, Xueling Lin,  Alexander Zhou, Hao Xin, Fengmei Jin,  Qiang Yan, Tiezheng Mao,  Zijian Li,   Qing Li, Lei Chen   
+
+* **Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees**   
+**Haoyang Li**, Yuming Xu, Chen Jason Zhang, Alexander Zhou, Lei Chen, Qing Li.
+
+* **Revisiting Graph Neural Networks on Graph-level Tasks: Comprehensive Experiments and Analysis**   
+**Haoyang Li**, Yuming Xu, Chen Jason Zhang, Alexander Zhou, Lei Chen, Qing Li.
+
+
+* **GraphKnow: An Efficient and Effective Graph Foundation Model for Diverse Graph Tasks**
 
 
 ## Publications [[Full List](https://scholar.google.com.hk/citations?user=r1UMbh0AAAAJ&hl=en)]
 **\*** denotes Corresponding Author
 
-* **When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction**     
-**Haoyang Li**, Yuming Xu, Yiming Li, Hanmo Liu, Darian Li, Chen Jason Zhang, Lei Chen, Qing Li.  
+* **LLMLog: Advanced Log Template Generation via LLM-driven Multi-Round Annotation**   
+ Fei Teng, **Haoyang Li\***, Lei Chen.  
 The 51st International Conference on Very Large Data Base (**VLDB 2025**)
 
 
@@ -90,9 +95,15 @@ The 51st International Conference on Very Large Data Base (**VLDB 2025**)
 Transactions on Machine Learning Research (**TMLR 2025**)
 
 
+
 * **Exposing Numeracy Gaps: A Benchmark to Evaluate Fundamental Numerical Abilities in Large Language Models**  
 **Haoyang Li**, Xuejia Chen, Zhanchao Xu, Darian Li, Nicole Hu, Fei Teng, Yiming Li, Luyu Qiu, Chen Jason Zhang, Qing Li, Lei Chen.  
 The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**)
+
+
+* **When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction**     
+**Haoyang Li**, Yuming Xu, Yiming Li, Hanmo Liu, Darian Li, Chen Jason Zhang, Lei Chen, Qing Li.  
+The 51st International Conference on Very Large Data Base (**VLDB 2025**)
 
 
 * **DynaProtect: A Dynamic Factor Influence Learning Framework for Protective Factor-aware Suicide Risk Prediction**     
@@ -100,9 +111,7 @@ Jun Li, Xiangmeng Wang, Yifei Yan, **Haoyang Li**, Hong Va Leong, Nancy Yu, Qing
 Companion Proceedings of the ACM on Web Conference 2025 （**WWW Tempweb 2025**）  
 
 
-* **LLMLog: Advanced Log Template Generation via LLM-driven Multi-Round Annotation**   
- Fei Teng, **Haoyang Li\***, Lei Chen.  
-The 51st International Conference on Very Large Data Base (**VLDB 2025**)
+
 
 
 * **A Selective Learning Method for Temporal Graph Continual Learning**    
