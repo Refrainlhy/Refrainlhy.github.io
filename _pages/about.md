@@ -44,11 +44,12 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
 </font>
  
 ## Research Interests
+* Large Language Models
+* Graph Foundation Models and GraphRAG
 * Data Management for Machine Learning
 * Data-driven Machine Learning
 * Data and Model Security
-* Large Language Models
-* Graph Neural Networks and Knowledge Bases
+
 
 ## Selected Preprints  
 
