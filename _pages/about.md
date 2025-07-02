@@ -53,6 +53,13 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
 
 ## Selected Preprints  
 
+* **LoopServe: An Adaptive Dual-phase LLM inference Acceleration System for Multi-Turn Dialogues**  
+ **Haoyang Li**, Zhanchao Xu, Yiming Li, Xuejia Chen, Darian Li, Anxin Tian, Qingfa Xiao, Jun Wang, Qing Li, Lei Chen, Mingxuan Yuan  
+
+* **Can Graph Foundation Models Replace Graph Neural Networks? An Experimental Study with Theoretical Analysis**   
+ **Haoyang Li**, Mingtao Zhang, Xinyi Zhu, Yuming Xu, Yiming Li, Wei Dong, Alexander Zhou, Yubo Wang, Yongqi Zhang, Chen Jason Zhang, Lei Chen, Qing Li
+
+
 
 * **AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large Language Models**  
   Kai Li, Can Shen,..., **Haoyang Li**, ..., Wei Dong, Xinfeng Li
