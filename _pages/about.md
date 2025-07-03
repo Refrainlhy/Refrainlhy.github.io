@@ -66,7 +66,8 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
 
 
 * **PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing**    
-Cheng Deng, Luoyang Sun, ..., **Haoyang Li**, Lei Chen, Lionel M Ni, Haifeng Zhang, Jun Wang
+Cheng Deng, Luoyang Sun, Jiwen Jiang, Yongcheng Zeng, Xinjian Wu, Wenxin Zhao, Qingfa Xiao, Jiachuan Wang, **Haoyang Li**, Lei Chen, Lionel M. Ni, Haifeng Zhang, Jun Wang
+
 
 * **GORAG: Graph-based Retrieval Augmented Generation for Dynamic Few-shot Text Classification**    
  Yubo Wang, **Haoyang Li**,  Fei Teng, Lei Chen.
