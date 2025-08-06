@@ -78,8 +78,6 @@ Cheng Deng, Luoyang Sun, Jiwen Jiang, Yongcheng Zeng, Xinjian Wu, Wenxin Zhao, Q
 * **Learning Towards Emergence: Paving the Way to Induce Emergence by Inhibiting Monosemantic Neurons on Pre-trained Models**    
 Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xiaofang Zhou, Lei Chen
 
-* **Dynamic Service Knowledge Base Construction at WeChat**  
-**Haoyang Li**, Ziyuan Zhao, Xueling Lin,  Alexander Zhou, Hao Xin, Fengmei Jin,  Qiang Yan, Tiezheng Mao,  Zijian Li,   Qing Li, Lei Chen   
 
 * **Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees**   
 **Haoyang Li**, Yuming Xu, Chen Jason Zhang, Alexander Zhou, Lei Chen, Qing Li.
@@ -114,6 +112,9 @@ The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 
 **Haoyang Li**, Yuming Xu, Yiming Li, Hanmo Liu, Darian Li, Chen Jason Zhang, Lei Chen, Qing Li.  
 The 51st International Conference on Very Large Data Base (**VLDB 2025**)
 
+* **Dynamic Service Knowledge Base Construction at WeChat**  
+**Haoyang Li**, Ziyuan Zhao, Xueling Lin,  Alexander Zhou, Hao Xin, Fengmei Jin,  Qiang Yan, Tiezheng Mao,  Zijian Li,   Qing Li, Lei Chen   
+The 21st International Conference on Advanced Data Mining and Applications (**ADMA 2025**)
 
 * **DynaProtect: A Dynamic Factor Influence Learning Framework for Protective Factor-aware Suicide Risk Prediction**     
 Jun Li, Xiangmeng Wang, Yifei Yan, **Haoyang Li**, Hong Va Leong, Nancy Yu, Qing Li.  
