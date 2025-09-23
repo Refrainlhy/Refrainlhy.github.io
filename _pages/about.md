@@ -78,13 +78,13 @@ Cheng Deng, Luoyang Sun, Jiwen Jiang, Yongcheng Zeng, Xinjian Wu, Wenxin Zhao, Q
 * **Learning Towards Emergence: Paving the Way to Induce Emergence by Inhibiting Monosemantic Neurons on Pre-trained Models**    
 Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xiaofang Zhou, Lei Chen
 
-
+<!-- *
 * **Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees**   
 **Haoyang Li**, Yuming Xu, Chen Jason Zhang, Alexander Zhou, Lei Chen, Qing Li.
 
 * **Revisiting Graph Neural Networks on Graph-level Tasks: Comprehensive Experiments and Analysis**   
 **Haoyang Li**, Yuming Xu, Chen Jason Zhang, Alexander Zhou, Lei Chen, Qing Li.
-
+-->
 
 * **GraphKnow: An Efficient and Effective Graph Foundation Model for Diverse Graph Tasks**
 
