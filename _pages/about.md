@@ -184,10 +184,11 @@ The 26th International Conference on Database Systems for Advanced Applications 
   The 46th International Conference on Very Large Databases (**VLDB 2020**)  
 
 ## Teaching
-* COMP5572: AI Applications in the Humanities, The Hong Kong Polytechnic University (2024/25 Semester 2, SFQ 4.7/5, Top 10%)
+* COMP5572: AI Applications in the Humanities, PolyU (2024/25 Semester 2, 68 students, SFQ 4.7/5, Top 10%)
+* COMP5575: High-Dimensional Data Management and Analytics, PolyU (2025/26 Semester 2, incoming course, welcome to select it!)
 
 
-  ## Academic Service
+## Academic Service
 * **PC Member:** WWW 2025, ICDE 2025, AAAI 2025,  DASFAA 2025/2024, ECAI 2024, RobustRecSys 2024  
 * **Conference Reviewer:** KDD 2025-2020, AISTATS 2025, ICML 2025/2024/2023, ICLR 2025/2024/2023, NeurIPS 2024/2023,  WWW 2021/2022  
 * **Journal Reviewer:** TKDE, TOIS, TBD, TETCI, Neural Networks  
