@@ -115,7 +115,11 @@ The 51st International Conference on Very Large Data Base (**VLDB 2025**)
 
 * **Dynamic Service Knowledge Base Construction at WeChat**  
 **Haoyang Li**, Ziyuan Zhao, Xueling Lin,  Alexander Zhou, Hao Xin, Fengmei Jin,  Qiang Yan, Tiezheng Mao,  Zijian Li,   Qing Li, Lei Chen   
-The 21st International Conference on Advanced Data Mining and Applications (**ADMA 2025**)
+The 21st International Conference on Advanced Data Mining and Applications (**ADMA**)
+
+* **Understanding the Embedding Models on Hyper-relational Knowledge Graphs**   
+Yubo Wang, Shimin Di, Zhili Wang, **Haoyang Li**, Fei Teng, Hao Xin, Lei Chen.   
+The 33rd ACM International Conference on Information and Knowledge Management (**CIKM 2025**)
 
 * **DynaProtect: A Dynamic Factor Influence Learning Framework for Protective Factor-aware Suicide Risk Prediction**     
 Jun Li, Xiangmeng Wang, Yifei Yan, **Haoyang Li**, Hong Va Leong, Nancy Yu, Qing Li.  
