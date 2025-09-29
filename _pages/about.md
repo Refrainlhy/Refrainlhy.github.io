@@ -115,7 +115,7 @@ The 51st International Conference on Very Large Data Base (**VLDB 2025**)
 
 * **Dynamic Service Knowledge Base Construction at WeChat**  
 **Haoyang Li**, Ziyuan Zhao, Xueling Lin,  Alexander Zhou, Hao Xin, Fengmei Jin,  Qiang Yan, Tiezheng Mao,  Zijian Li,   Qing Li, Lei Chen   
-The 21st International Conference on Advanced Data Mining and Applications (**ADMA**)
+The 21st International Conference on Advanced Data Mining and Applications (**ADMA 2025**)
 
 * **Understanding the Embedding Models on Hyper-relational Knowledge Graphs**   
 Yubo Wang, Shimin Di, Zhili Wang, **Haoyang Li**, Fei Teng, Hao Xin, Lei Chen.   
