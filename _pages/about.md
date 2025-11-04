@@ -197,11 +197,11 @@ The 26th International Conference on Database Systems for Advanced Applications 
 * **Workshop Chair:**
   - Cognitive and Mental Health Disorder Detection on Social Media at ICDE’2025
   - Mental Health Disorder Detection on Social Media at ICDM’2025 
-* **Web Chair:** International Conference on Advanced Data Mining and Applications (ADMA) 2026, Web Chair
+* **Web Chair:** International Conference on Advanced Data Mining and Applications (ADMA) 2026
 * **BigData Cup Challenge 2025 Organizer:** Suicide Risk Prediction on Social Media
-* **Track Co-chair:** The 31st IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2026: Big Data Track 
+* **Track Co-chair:** The 31st IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2026, Big Data Track 
 * **PC Member:** ICDE, DASFAA, WWW, AAAI, ECAI
-* **Conference Reviewer:** KDD, ICML, ICLR, NeurIPS, AISTATS,WWW
+* **Conference Reviewer:** KDD, ICML, ICLR, NeurIPS, AISTATS, WWW
 * **Journal Reviewer:** TKDE, TOIS, TBD, TETCI, Neural Network
 
 <!-- *
