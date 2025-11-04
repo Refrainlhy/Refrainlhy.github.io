@@ -192,8 +192,22 @@ The 26th International Conference on Database Systems for Advanced Applications 
 * COMP5575: High-Dimensional Data Management and Analytics, PolyU (2025/26 Semester 2, incoming course, welcome to select it!)
 
 
-## Academic Service
+## Professional Academic Service
+* **Guest Editor:** IEEE Transactions on Computational Social Systems
+* **Workshop Chair:**
+  - Cognitive and Mental Health Disorder Detection on Social Media at ICDE’2025
+  - Mental Health Disorder Detection on Social Media at ICDM’2025 
+* **Web Chair:** International Conference on Advanced Data Mining and Applications (ADMA) 2026, Web Chair
+* **BigData Cup Challenge 2025 Organizer:** Suicide Risk Prediction on Social Media
+* **Track Co-chair:** The 31st IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2026: Big Data Track 
+* **PC Member:** ICDE, DASFAA, WWW, AAAI, ECAI
+* **Conference Reviewer:** KDD, ICML, ICLR, NeurIPS, AISTATS,WWW
+* **Journal Reviewer:** TKDE, TOIS, TBD, TETCI, Neural Network
+
+<!-- *
 * **PC Member:** WWW 2025, ICDE 2025, AAAI 2025,  DASFAA 2025/2024, ECAI 2024, RobustRecSys 2024  
 * **Conference Reviewer:** KDD 2025-2020, AISTATS 2025, ICML 2025/2024/2023, ICLR 2025/2024/2023, NeurIPS 2024/2023,  WWW 2021/2022  
-* **Journal Reviewer:** TKDE, TOIS, TBD, TETCI, Neural Networks  
+* **Journal Reviewer:** TKDE, TOIS, TBD, TETCI, Neural Networks
+-->
+
 
