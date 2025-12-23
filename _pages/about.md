@@ -52,8 +52,8 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
 
 ## Selected Preprints  
 
-* **Survey and Experiments on Mental Disorder Detection via Social Media: From Large Language Models and RAG to Agents**
-Zhuohan Ge, Nicole Hu, Yubo Wang, Darian Li, Xinyi Zhu, **Haoyang Li**, Xin Zhang, Mingtao Zhang, Shihao Qi, Yuming Xu, Han Shi, Chen Jason Zhang, Qing Li
+* **Survey and Experiments on Mental Disorder Detection via Social Media: From Large Language Models and RAG to Agents**    
+Zhuohan Ge, Nicole Hu, Yubo Wang, Darian Li, Xinyi Zhu, **Haoyang Li**, Xin Zhang, Mingtao Zhang, Shihao Qi, Yuming Xu, Han Shi, Chen Jason Zhang, Qing Li 
 
 * **LoopServe: An Adaptive Dual-phase LLM inference Acceleration System for Multi-Turn Dialogues**  
  **Haoyang Li**, Zhanchao Xu, Yiming Li, Xuejia Chen, Darian Li, Anxin Tian, Qingfa Xiao, Cheng Deng, Jun Wang, Qing Li, Lei Chen, Mingxuan Yuan
