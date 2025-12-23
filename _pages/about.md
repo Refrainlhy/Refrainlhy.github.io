@@ -19,8 +19,7 @@ Email and address: haoyang-comp.li@polyu.edu.hk, PQ810 PolyU.
  The topics of current research projects include large language models, self supervised-learning, adversarial machine learning, etc. If you are interested, please send me your CV and transcripts. Thank you!
  </font>
 
-
-
+* <font color="#CE1126"> MSc students at PolyU who are seeking a dissertation supervisor: please attach your CV and transcripts. My quota is limited. Last year, six students received 4 A+/A, and 2 A-/B+, with published papers. </font> 
 
 <!-- * <font color="#CE1126"> For PolyU undergraduates, if you choose me as your capstone supervisor, you will work on the most advanced AI work. But please note that hard work will result in a good score, while lack of effort, missed deadlines, or poor teamwork will lead to a lower score. </font> -->
 
@@ -36,7 +35,6 @@ Email and address: haoyang-comp.li@polyu.edu.hk, PQ810 PolyU.
 * <font color="#CE1126"> Self-funded PhD/MPhil candidates, dual-degree PhD programme, visiting scholars are also welcome.</font>
 
 
-* <font color="#CE1126"> MSc students at PolyU who seek a dissertation supervisor. Please attach your CV and transcripts. </font> 
 
 
 
@@ -54,8 +52,11 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
 
 ## Selected Preprints  
 
+* **Survey and Experiments on Mental Disorder Detection via Social Media: From Large Language Models and RAG to Agents**
+Zhuohan Ge, Nicole Hu, Yubo Wang, Darian Li, Xinyi Zhu, **Haoyang Li**, Xin Zhang, Mingtao Zhang, Shihao Qi, Yuming Xu, Han Shi, Chen Jason Zhang, Qing Li
+
 * **LoopServe: An Adaptive Dual-phase LLM inference Acceleration System for Multi-Turn Dialogues**  
- **Haoyang Li**, Zhanchao Xu, Yiming Li, Xuejia Chen, Darian Li, Anxin Tian, Qingfa Xiao, Cheng Deng, Jun Wang, Qing Li, Lei Chen, Mingxuan Yuan  
+ **Haoyang Li**, Zhanchao Xu, Yiming Li, Xuejia Chen, Darian Li, Anxin Tian, Qingfa Xiao, Cheng Deng, Jun Wang, Qing Li, Lei Chen, Mingxuan Yuan
 
 * **Can Graph Foundation Models Replace Graph Neural Networks? An Experimental Study with Theoretical Analysis**   
  **Haoyang Li**, Mingtao Zhang, Xinyi Zhu, Yuming Xu, Yiming Li, Wei Dong, Alexander Zhou, Yubo Wang, Yongqi Zhang, Chen Jason Zhang, Lei Chen, Qing Li
