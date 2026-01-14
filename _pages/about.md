@@ -71,8 +71,6 @@ Zhuohan Ge, Nicole Hu, Yubo Wang, Darian Li, Xinyi Zhu, **Haoyang Li**, Xin Zhan
 Cheng Deng, Luoyang Sun, Jiwen Jiang, Yongcheng Zeng, Xinjian Wu, Wenxin Zhao, Qingfa Xiao, Jiachuan Wang, **Haoyang Li**, Lei Chen, Lionel M. Ni, Haifeng Zhang, Jun Wang
 
 
-* **GORAG: Graph-based Retrieval Augmented Generation for Dynamic Few-shot Text Classification**    
- Yubo Wang, **Haoyang Li**,  Fei Teng, Lei Chen.
 
 * **Activation-aware Probe-Query: Effective Key-Value Retrieval for Long-Context LLMs Inference**   
  Qingfa Xiao, Jiachuan Wang, **Haoyang Li**, Cheng Deng, Jiaqi Tang, Shuangyin Li, Yongqi Zhang, Jun Wang, Lei Chen.
@@ -94,6 +92,11 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 ## Publications [[Full List](https://scholar.google.com.hk/citations?user=r1UMbh0AAAAJ&hl=en)]
 **\*** denotes Corresponding Author
 
+    
+* **GORAG: Graph-based Online Retrieval Augmented Generation for Dynamic Few-shot Social Media Text Classification**   
+Yubo Wang, **Haoyang Li\***, Fei Teng, Lei Chen.    
+The ACM Web Conference 2026 (**WWW 2026**)
+    
 * **LLMLog: Advanced Log Template Generation via LLM-driven Multi-Round Annotation**   
  Fei Teng, **Haoyang Li\***, Lei Chen.  
 The 51st International Conference on Very Large Data Base (**VLDB 2025**)
