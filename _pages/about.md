@@ -61,16 +61,11 @@ Zhuohan Ge, Nicole Hu, Yubo Wang, Darian Li, Xinyi Zhu, **Haoyang Li**, Xin Zhan
 * **Can Graph Foundation Models Replace Graph Neural Networks? An Experimental Study with Theoretical Analysis**   
  **Haoyang Li**, Mingtao Zhang, Xinyi Zhu, Yuming Xu, Yiming Li, Wei Dong, Alexander Zhou, Yubo Wang, Yongqi Zhang, Chen Jason Zhang, Lei Chen, Qing Li
 
-
-
 * **AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large Language Models**  
   Kai Li, Can Shen,..., **Haoyang Li**, ..., Wei Dong, Xinfeng Li
 
-
 * **PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing**    
 Cheng Deng, Luoyang Sun, Jiwen Jiang, Yongcheng Zeng, Xinjian Wu, Wenxin Zhao, Qingfa Xiao, Jiachuan Wang, **Haoyang Li**, Lei Chen, Lionel M. Ni, Haifeng Zhang, Jun Wang
-
-
 
 * **Activation-aware Probe-Query: Effective Key-Value Retrieval for Long-Context LLMs Inference**   
  Qingfa Xiao, Jiachuan Wang, **Haoyang Li**, Cheng Deng, Jiaqi Tang, Shuangyin Li, Yongqi Zhang, Jun Wang, Lei Chen.
@@ -92,6 +87,9 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 ## Publications [[Full List](https://scholar.google.com.hk/citations?user=r1UMbh0AAAAJ&hl=en)]
 **\*** denotes Corresponding Author
 
+* **Efficient GNN Training on Giant Graphs with Collective Batching and Scheduling**      
+Xin Zhang, Yanyan Shen, Yingxia Shao, **Haoyang Li**, Lei Chen      
+The 52nd International Conference on Very Large Data Base (**VLDB 2026**) 
     
 * **GORAG: Graph-based Online Retrieval Augmented Generation for Dynamic Few-shot Social Media Text Classification**   
 Yubo Wang, **Haoyang Li\***, Fei Teng, Lei Chen.    
