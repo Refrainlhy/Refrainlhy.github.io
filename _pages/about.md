@@ -88,7 +88,13 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 
 * **AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large Language Models**  
 Kai Li, Can Shen,..., **Haoyang Li**, ..., Wei Dong, Xinfeng Li   
-The Fourteenth International Conference on Learning Representations (**ICLR 2026**) 
+The Fourteenth International Conference on Learning Representations (**ICLR 2026**)
+
+* **Multi-Agent Causal Reasoning for Suicide Ideation Detection Through Online Conversations**   
+Jun Li, Xiangmeng Wang, **Haoyang Li**, Yifei Yan, Shijie Zhang, Hong Va Leong, Ling Feng, Nancy Xiaonan Yu, Qing Li.   
+The 31st International Conference on Database Systems for Advanced Applications (**DASFAA 2026**)
+
+
 
 * **Efficient GNN Training on Giant Graphs with Collective Batching and Scheduling**      
 Xin Zhang, Yanyan Shen, Yingxia Shao, **Haoyang Li**, Lei Chen      
