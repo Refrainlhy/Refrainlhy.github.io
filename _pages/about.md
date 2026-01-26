@@ -61,8 +61,6 @@ Zhuohan Ge, Nicole Hu, Yubo Wang, Darian Li, Xinyi Zhu, **Haoyang Li**, Xin Zhan
 * **Can Graph Foundation Models Replace Graph Neural Networks? An Experimental Study with Theoretical Analysis**   
  **Haoyang Li**, Mingtao Zhang, Xinyi Zhu, Yuming Xu, Yiming Li, Wei Dong, Alexander Zhou, Yubo Wang, Yongqi Zhang, Chen Jason Zhang, Lei Chen, Qing Li
 
-* **AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large Language Models**  
-  Kai Li, Can Shen,..., **Haoyang Li**, ..., Wei Dong, Xinfeng Li
 
 * **PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing**    
 Cheng Deng, Luoyang Sun, Jiwen Jiang, Yongcheng Zeng, Xinjian Wu, Wenxin Zhao, Qingfa Xiao, Jiachuan Wang, **Haoyang Li**, Lei Chen, Lionel M. Ni, Haifeng Zhang, Jun Wang
@@ -86,6 +84,11 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 
 ## Publications [[Full List](https://scholar.google.com.hk/citations?user=r1UMbh0AAAAJ&hl=en)]
 **\*** denotes Corresponding Author
+
+
+* **AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large Language Models**  
+Kai Li, Can Shen,..., **Haoyang Li**, ..., Wei Dong, Xinfeng Li   
+The Fourteenth International Conference on Learning Representations (**ICLR 2026**) 
 
 * **Efficient GNN Training on Giant Graphs with Collective Batching and Scheduling**      
 Xin Zhang, Yanyan Shen, Yingxia Shao, **Haoyang Li**, Lei Chen      
