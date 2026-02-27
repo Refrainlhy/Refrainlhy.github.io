@@ -85,6 +85,8 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 ## Publications [[Full List](https://scholar.google.com.hk/citations?user=r1UMbh0AAAAJ&hl=en)]
 **\*** denotes Corresponding Author
 
+ 
+
 * **AGRAG: Advanced Graph-based Retrieval-Augmented Generation for LLMs**    
 Yubo Wang, **Haoyang Li\***, Fei Teng, Lei Chen.    
 The 42nd  IEEE International Conference on Data Engineering (**ICDE 2026**)
