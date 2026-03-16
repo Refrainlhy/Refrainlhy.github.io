@@ -87,7 +87,7 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 
 * **The Person Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Models**  
 Lixu Wang, Kaixiang Yao, Xinfeng Li, Dong Yang, **Haoyang Li**, XiaoFeng Wang, Wei Dong.  
-The 47th IEEE Symposium on Security and Privacy(**IEEE S&P 2026**)
+The 47th IEEE Symposium on Security and Privacy (**IEEE S&P 2026**)
 
 
 * **Skyline Retrieval meets Set-Cover Chunk Merging: A Cost-Effective RAG-Sketch for Long-Context LLM QA**  
