@@ -86,7 +86,7 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 **\*** denotes Corresponding Author
 
 * **The Person Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Models**  
-Lixu Wang, Kaixiang Yao, Xinfeng Li, Dong Yang, **Haoyang Li**, XiaoFeng Wang, Wei Dong.  
+Lixu Wang, Kaixiang Yao, Xinfeng Li, Dong Yang, **Haoyang Li**, Xiaofeng Wang, Wei Dong.  
 The 47th IEEE Symposium on Security and Privacy (**IEEE S&P 2026**)
 
 
@@ -100,7 +100,7 @@ The 42nd  IEEE International Conference on Data Engineering (**ICDE 2026**)
 
 
 * **AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large Language Models**  
-Kai Li, Can Shen,..., **Haoyang Li**, ..., Wei Dong, Xinfeng Li   
+Kai Li, Can Shen,..., **Haoyang Li**, ..., Wei Dong, Xinfeng Li.
 The Fourteenth International Conference on Learning Representations (**ICLR 2026**)
 
 * **Multi-Agent Causal Reasoning for Suicide Ideation Detection Through Online Conversations**   
