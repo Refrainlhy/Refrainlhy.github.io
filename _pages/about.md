@@ -100,7 +100,7 @@ The 42nd  IEEE International Conference on Data Engineering (**ICDE 2026**)
 
 
 * **AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large Language Models**  
-Kai Li, Can Shen,..., **Haoyang Li**, ..., Wei Dong, Xinfeng Li.
+Kai Li, Can Shen,..., **Haoyang Li**, ..., Wei Dong, Xinfeng Li.  
 The Fourteenth International Conference on Learning Representations (**ICLR 2026**)
 
 * **Multi-Agent Causal Reasoning for Suicide Ideation Detection Through Online Conversations**   
