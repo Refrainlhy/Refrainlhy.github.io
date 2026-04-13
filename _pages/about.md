@@ -85,6 +85,10 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 ## Publications [[Full List](https://scholar.google.com.hk/citations?user=r1UMbh0AAAAJ&hl=en)]
 **\*** denotes Corresponding Author
 
+* **Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees**  
+Luyu Qiu, Yuming Xu,  **Haoyang Li\***, Chen Jason Zhang, Alexander Zhou, Peng Cheng, Lei Chen, Qing Li.  
+The VLDB Journal (**VLDBJ2026**)
+
 * **The Person Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Models**  
 Lixu Wang, Kaixiang Yao, Xinfeng Li, Dong Yang, **Haoyang Li**, Xiaofeng Wang, Wei Dong.  
 The 47th IEEE Symposium on Security and Privacy (**IEEE S&P 2026**)
