@@ -50,6 +50,7 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
 * Data and Model Security
 
 
+<!-- *
 ## Selected Preprints  
 
 * **Survey and Experiments on Mental Disorder Detection via Social Media: From Large Language Models and RAG to Agents**    
@@ -71,19 +72,25 @@ Cheng Deng, Luoyang Sun, Jiwen Jiang, Yongcheng Zeng, Xinjian Wu, Wenxin Zhao, Q
 * **Learning Towards Emergence: Paving the Way to Induce Emergence by Inhibiting Monosemantic Neurons on Pre-trained Models**    
 Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xiaofang Zhou, Lei Chen
 
-<!-- *
 * **Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees**   
 **Haoyang Li**, Yuming Xu, Chen Jason Zhang, Alexander Zhou, Lei Chen, Qing Li.
 
 * **Revisiting Graph Neural Networks on Graph-level Tasks: Comprehensive Experiments and Analysis**   
 **Haoyang Li**, Yuming Xu, Chen Jason Zhang, Alexander Zhou, Lei Chen, Qing Li.
--->
 
 * **GraphKnow: An Efficient and Effective Graph Foundation Model for Diverse Graph Tasks**
+
+-->
+
 
 
 ## Publications [[Full List](https://scholar.google.com.hk/citations?user=r1UMbh0AAAAJ&hl=en)]
 **\*** denotes Corresponding Author
+
+* **MGRAG: Semantic Subgraph Matching and Graph-Aware Caching for Multimodal Retrieval-Augmented Generation**      
+Yubo Wang,  **Haoyang Li\***, Lei Chen      
+The 52nd International Conference on Very Large Data Base (**VLDB 2026**) 
+    
 
 * **Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees**  
 Luyu Qiu, Yuming Xu,  **Haoyang Li\***, Chen Jason Zhang, Alexander Zhou, Peng Cheng, Lei Chen, Qing Li.  
