@@ -87,6 +87,14 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 ## Publications [[Full List](https://scholar.google.com.hk/citations?user=r1UMbh0AAAAJ&hl=en)]
 **\*** denotes Corresponding Author
 
+* **ClinicalAgents: Multi-Agent Orchestration for Clinical Decision Making with Dual-Memory**    
+  Zhuohan Ge, **Haoyang Li\***, Yubo Wang, Nicole Hu, Chen Jason Zhang, Li Qing.   
+  The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2026**)   
+
+* **M²DDI: A Unified Framework for Dynamic Multimodal Fusion in Drug-Drug Interaction Prediction**  
+  Runqing Xu, Siyi Liu, **Haoyang Li**, Hao Li, Yongqi Zhang.   
+  The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2026**)   
+
 * **MGRAG: Semantic Subgraph Matching and Graph-Aware Caching for Multimodal Retrieval-Augmented Generation**      
 Yubo Wang,  **Haoyang Li\***, Lei Chen      
 The 52nd International Conference on Very Large Data Base (**VLDB 2026**) 
