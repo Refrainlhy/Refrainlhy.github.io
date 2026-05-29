@@ -231,8 +231,8 @@ The 26th International Conference on Database Systems for Advanced Applications 
   The 46th International Conference on Very Large Databases (**VLDB 2020**)  
 
 ## Teaching
-* COMP5572: AI Applications in the Humanities, PolyU (2024/25 Semester 2, 68 students, SFQ 4.7/5, Top 10%)
-* COMP5575: High-Dimensional Data Management and Analytics, PolyU (2025/26 Semester 2, incoming course, welcome to select it!)
+* COMP5575: High-Dimensional Data Management and Analytics, PolyU (2025/26 Semester 2, 32 students, SFQ 4.8/5, Top 10%) 
+* COMP5572: AI Applications in the Humanities, PolyU (2024/25 Semester 2, 67 students, SFQ 4.7/5, Top 10%)
 
 
 ## Professional Academic Service
