@@ -87,6 +87,12 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 ## Publications [[Full List](https://scholar.google.com.hk/citations?user=r1UMbh0AAAAJ&hl=en)]
 **\*** denotes Corresponding Author
 
+* **GraphKnow: An Efficient and Effective Graph Foundation Model for Diverse Graph Tasks**  
+Mingtao Zhang,  **Haoyang Li\***, Yuming Xu, Nicole Hu, Peng Cheng, Chen Jason Zhang, Qing Li, Lei Chen   
+The 52nd International Conference on Very Large Data Base (**VLDB 2026, Demonstration Track**) 
+
+
+
 * **ClinicalAgents: Multi-Agent Orchestration for Clinical Decision Making with Dual-Memory**    
   Zhuohan Ge, **Haoyang Li\***, Yubo Wang, Nicole Hu, Chen Jason Zhang, Li Qing.   
   The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2026**)   
