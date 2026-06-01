@@ -88,13 +88,13 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 **\*** denotes Corresponding Author
 
 * **GraphKnow: An Efficient and Effective Graph Foundation Model for Diverse Graph Tasks**  
-Mingtao Zhang,  **Haoyang Li\***, Yuming Xu, Nicole Hu, Peng Cheng, Chen Jason Zhang, Qing Li, Lei Chen   
-The 52nd International Conference on Very Large Data Base (**VLDB 2026, Demonstration Track**) 
+Mingtao Zhang,  **Haoyang Li\***, Yuming Xu, Nicole Hu, Peng Cheng, Chen Jason Zhang, Qing Li, Lei Chen.   
+The 52nd International Conference on Very Large Data Base (**VLDB 2026, Demo Track**) 
 
 
 
 * **ClinicalAgents: Multi-Agent Orchestration for Clinical Decision Making with Dual-Memory**    
-  Zhuohan Ge, **Haoyang Li\***, Yubo Wang, Nicole Hu, Chen Jason Zhang, Li Qing.   
+  Zhuohan Ge, **Haoyang Li\***, Yubo Wang, Nicole Hu, Chen Jason Zhang, Qing Li.   
   The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2026**)   
 
 * **M²DDI: A Unified Framework for Dynamic Multimodal Fusion in Drug-Drug Interaction Prediction**  
