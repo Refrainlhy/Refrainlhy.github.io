@@ -87,6 +87,11 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 ## Publications [[Full List](https://scholar.google.com.hk/citations?user=r1UMbh0AAAAJ&hl=en)]
 **\*** denotes Corresponding Author
 
+
+* **PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs**    
+Ying Liu, Yi Ye, Quanyu Feng, Mingxi Ye, Mingtao Zhang, **Haoyang Li\***, Chen Jason Zhang, Qing Li.    
+35th International ACM Conference on Knowledge and Information Management (**CIKM 2026, Demo Track**) 
+
 * **GraphKnow: An Efficient and Effective Graph Foundation Model for Diverse Graph Tasks**  
 Mingtao Zhang,  **Haoyang Li\***, Yuming Xu, Nicole Hu, Peng Cheng, Chen Jason Zhang, Qing Li, Lei Chen.   
 The 52nd International Conference on Very Large Data Base (**VLDB 2026, Demo Track**) 
