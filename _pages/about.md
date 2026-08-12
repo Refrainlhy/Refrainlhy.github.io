@@ -88,6 +88,11 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 **\*** denotes Corresponding Author
 
 
+* **EnhanceGraph: A Continuously Enhanced Graph-based Index for High-dimensional Approximate Nearest Neighbor Search**  
+  Xiaoyao Zhong, Jiabao Jin, Peng Cheng, Mingyu Yang, **Haoyang Li**, Zhitao Shen, Jingkuan Song, Heng Tao Shen.  
+  IEEE Transactions on Knowledge and Data Engineering (**TKDE 2026**)  
+  
+
 * **PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs**    
 Ying Liu, Yi Ye, Quanyu Feng, Mingxi Ye, Mingtao Zhang, **Haoyang Li\***, Chen Jason Zhang, Qing Li.    
 35th International ACM Conference on Knowledge and Information Management (**CIKM 2026, Demo Track**) 
