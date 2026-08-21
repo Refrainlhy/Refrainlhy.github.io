@@ -89,7 +89,15 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 
 * **A Survey of Secure Retrieval-Augmented Generation**    
   Yuming Xu, Mingtao Zhang, Zhuohan Ge, **Haoyang Li\***, Nicole Hu, Yongqi Zhang, Zhiyuan Wen, Chen Jason Zhang, Qing Li, Lei Chen.   
-  The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**)   
+  The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**)
+
+* **CemLit-IE: Schema-Constrained LLM Extraction for Traceable Cement Strength Databases**  
+  Yanjie Sun, Mengze Hong, Chen Jason Zhang, **Haoyang Li**.  
+  The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**)
+
+* **ExhibitionBench: A Multi-Source, Multi-Task Benchmark for Evaluating LLMs as Exhibition Curation Assistants**  
+  Mengze Hong, Yanjie Sun, Mengyao Zhu, Chen Jason Zhang, Di Jiang, Guoqiong Ivanka Huang, **Haoyang Li**, Zhigang Kou, Shuning Zhang, Wangze Ni, Enhao Huang, Zeyang Lei, Xia Zeng, Sheng Wang, Di Liang.  
+  The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**)
 
 * **StructSynth: Dependency Graphs as Generation Plans for Low-Data Tabular Synthesis with Language Models**    
   Siyi Liu, Yujia Zheng, **Haoyang Li**, Yongqi Zhang.   
