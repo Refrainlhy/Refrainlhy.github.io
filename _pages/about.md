@@ -87,6 +87,18 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 ## Publications [[Full List](https://scholar.google.com.hk/citations?user=r1UMbh0AAAAJ&hl=en)]
 **\*** denotes Corresponding Author
 
+* **A Survey of Secure Retrieval-Augmented Generation**    
+  Yuming Xu, Mingtao Zhang, Zhuohan Ge, **Haoyang Li\***, Nicole Hu, Yongqi Zhang, Zhiyuan Wen, Chen Jason Zhang, Qing Li, Lei Chen.   
+  The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**)   
+
+* **StructSynth: Dependency Graphs as Generation Plans for Low-Data Tabular Synthesis with Language Models**    
+  Siyi Liu, Yujia Zheng, **Haoyang Li**, Yongqi Zhang.   
+  The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**)   
+
+* **SurveyLens: A Discipline-Aware Benchmark for Automatic Survey Generation**    
+  Beichen Guo, Zhiyuan Wen, Jia Gu, Haochen Shi, Jian Wang, Senzhang Wang, **Haoyang Li**, Ruosong Yang, Shuaiqi Liu.   
+  The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**)
+  
 
 * **EnhanceGraph: A Continuously Enhanced Graph-based Index for High-dimensional Approximate Nearest Neighbor Search**  
   Xiaoyao Zhong, Jiabao Jin, Peng Cheng, Mingyu Yang, **Haoyang Li**, Zhitao Shen, Jingkuan Song, Heng Tao Shen.  
