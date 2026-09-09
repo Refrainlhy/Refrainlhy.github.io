@@ -36,8 +36,6 @@ Email and address: haoyang-comp.li@polyu.edu.hk, PQ810 PolyU.
 
 
 
-
-
 <font color="#CE1126">
 P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPhil candidates. Additionally, I may invite other excellent PhD graduates to provide guidance as needed.
 </font>
@@ -85,10 +83,10 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 
 
 ## Publications [[Full List](https://scholar.google.com.hk/citations?user=r1UMbh0AAAAJ&hl=en)]
-**\*** denotes Corresponding Author
+**\*** denotes Corresponding Author, **†** denotes Co-first Author
 
 * **A Survey of Secure Retrieval-Augmented Generation**    
-  Yuming Xu, Mingtao Zhang, Zhuohan Ge, **Haoyang Li\***, Nicole Hu, Yongqi Zhang, Zhiyuan Wen, Chen Jason Zhang, Qing Li, Lei Chen.   
+  Yuming Xu†, Mingtao Zhang†, Zhuohan Ge†, **Haoyang Li\***, Nicole Hu, Yongqi Zhang, Zhiyuan Wen, Chen Jason Zhang, Qing Li, Lei Chen.   
   The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**)
 
 * **CemLit-IE: Schema-Constrained LLM Extraction for Traceable Cement Strength Databases**  
@@ -196,6 +194,9 @@ Transactions on Machine Learning Research (**TMLR 2025**)
 **Haoyang Li**, Xuejia Chen, Zhanchao Xu, Darian Li, Nicole Hu, Fei Teng, Yiming Li, Luyu Qiu, Chen Jason Zhang, Qing Li, Lei Chen.  
 The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**)
 
+- **HDLdebugger: Streamlining HDL Debugging with Large Language Models**\
+  Xufeng Yao†, **Haoyang Li†**, Tsz Ho Chan†, Wenyi Xiao, Mingxuan Yuan, Yu Huang, Lei Chen, Bei Yu\
+  ACM Transactions on Design Automation of Electronic Systems (**TODAES 2025**)
 
 * **When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction**     
 **Haoyang Li**, Yuming Xu, Yiming Li, Hanmo Liu, Darian Li, Chen Jason Zhang, Lei Chen, Qing Li.  
