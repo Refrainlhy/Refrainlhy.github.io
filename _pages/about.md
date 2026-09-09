@@ -106,7 +106,7 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 * **SurveyLens: A Discipline-Aware Benchmark for Automatic Survey Generation**    
   Beichen Guo, Zhiyuan Wen, Jia Gu, Haochen Shi, Jian Wang, Senzhang Wang, **Haoyang Li**, Ruosong Yang, Shuaiqi Liu.   
   The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**)
-  
+
 
 * **EnhanceGraph: A Continuously Enhanced Graph-based Index for High-dimensional Approximate Nearest Neighbor Search**  
   Xiaoyao Zhong, Jiabao Jin, Peng Cheng, Mingyu Yang, **Haoyang Li**, Zhitao Shen, Jingkuan Song, Heng Tao Shen.  
@@ -116,6 +116,12 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 * **PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs**    
 Ying Liu, Yi Ye, Quanyu Feng, Mingxi Ye, Mingtao Zhang, **Haoyang Li\***, Chen Jason Zhang, Qing Li.    
 35th International ACM Conference on Knowledge and Information Management (**CIKM 2026, Demo Track**) 
+
+
+*  **Graph Foundation Models: State of the Art and Future Directions**\
+  Alexander Zhou, **Haoyang Li**, Lei Chen\
+  The 52nd International Conference on Very Large Data Base (**VLDB 2026, Tutorial**)
+
 
 * **GraphKnow: An Efficient and Effective Graph Foundation Model for Diverse Graph Tasks**  
 Mingtao Zhang,  **Haoyang Li\***, Yuming Xu, Nicole Hu, Peng Cheng, Chen Jason Zhang, Qing Li, Lei Chen.   
@@ -134,7 +140,7 @@ The 52nd International Conference on Very Large Data Base (**VLDB 2026, Demo Tra
 * **MGRAG: Semantic Subgraph Matching and Graph-Aware Caching for Multimodal Retrieval-Augmented Generation**      
 Yubo Wang,  **Haoyang Li\***, Lei Chen      
 The 52nd International Conference on Very Large Data Base (**VLDB 2026**) 
-    
+
 
 * **Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees**  
 Luyu Qiu, Yuming Xu,  **Haoyang Li\***, Chen Jason Zhang, Alexander Zhou, Peng Cheng, Lei Chen, Qing Li.  
@@ -144,6 +150,9 @@ The VLDB Journal (**VLDBJ 2026**)
 Lixu Wang, Kaixiang Yao, Xinfeng Li, Dong Yang, **Haoyang Li**, Xiaofeng Wang, Wei Dong.  
 The 47th IEEE Symposium on Security and Privacy (**IEEE S&P 2026**)
 
+* **From Rigid to Dynamic: Entropy-Guided Adaptive Inference for Long-Context LLMs**   
+  Zhanchao Xu, **Haoyang Li\***, Qingfa Xiao, Fei Teng, Mingtao Zhang, Zhuohan Ge, Nicole Hu, Yuming Xu, Chen Jason Zhang   
+  **ICPP AIRS 2026**
 
 * **Skyline Retrieval meets Set-Cover Chunk Merging: A Cost-Effective RAG-Sketch for Long-Context LLM QA**  
 Xinyi Zhu, **Haoyang Li\***, Yongqi Zhang, Lei Chen.  
@@ -206,6 +215,9 @@ Companion Proceedings of the ACM on Web Conference 2025 ï¼ˆ**WWW Tempweb 2025**ï
 
 
 
+* **Fast and Faithful: A Lightweight Spatio-Temporal GNN for Semi-Supervised Air Quality Forecasting with Inductive Capability**\
+  Yuming Xu, Zhanchao Xu, Yaowen Liu, Xuejia Chen, Qi Chen, Mingtao Zhang, Zhuohan Ge, **Haoyang Li\***, Chen Jason Zhang\
+  The 2025 IEEE International Conference on Big Data (**BigData 2025**)
 
 
 * **A Selective Learning Method for Temporal Graph Continual Learning**    
