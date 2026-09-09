@@ -121,7 +121,7 @@ Ying Liu, Yi Ye, Quanyu Feng, Mingxi Ye, Mingtao Zhang, **Haoyang Li\***, Chen J
   The 52nd International Conference on Very Large Data Base (**VLDB 2026, Tutorial**)
 
 
-* **GraphKnow: An Efficient and Effective Graph Foundation Model for Diverse Graph Tasks**  
+* **GraphAgent: An Effective Knowledge-Guided GNN Model Selection System**  
 Mingtao Zhang,  **Haoyang Li\***, Yuming Xu, Nicole Hu, Peng Cheng, Chen Jason Zhang, Qing Li, Lei Chen.   
 The 52nd International Conference on Very Large Data Base (**VLDB 2026, Demo Track**) 
 
