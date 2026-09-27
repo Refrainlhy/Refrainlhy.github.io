@@ -12,8 +12,10 @@ author_profile: true
   - Mental Health Disorder Detection on Social Media at ICDM’2025
   - The International Workshop on AI for Cognitive and Mental Health Support at KDD’2026
 * **Web Chair:** International Conference on Advanced Data Mining and Applications (ADMA) 2026
-* **Proceedings Chair:** The 37th Australasian Database Conference (ADC) 2026
-* **BigData Cup Challenge 2025/2027 Organizer:** Suicide Risk Prediction on Social Media
+* **Proceedings Chair:**
+  - The 37th Australasian Database Conference (ADC) 2026
+  - International Conference on Advanced Data Mining and Applications (ADMA) 2027
+* **BigData Cup Challenge 2025/2026 Organizer:** Suicide Risk Prediction on Social Media
 * **Track Co-chair:** The 31st IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2026, Big Data Track
 * **PC Member:** ICDE, DASFAA, WWW, AAAI, ECAI
 * **Conference Reviewer:** VLDB, KDD, ICML, ICLR, NeurIPS, AISTATS, WWW
