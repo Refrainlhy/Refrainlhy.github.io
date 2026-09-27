@@ -1,13 +1,24 @@
 ---
-layout: archive
+layout: single
 title: "Selected Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
+page_class: publications-page
 ---
 
-[My DBLP Entry](https://dblp.org/pid/118/0004-2.html) &nbsp;&nbsp; [My Google Scholar Page](https://scholar.google.com/citations?user=r1UMbh0AAAAJ&hl=en)
+<div class="publication-links">
+  <a href="https://dblp.org/pid/118/0004-2.html">DBLP</a>
+  <a href="https://scholar.google.com/citations?user=r1UMbh0AAAAJ&amp;hl=en">Google Scholar</a>
+</div>
 
-**\*** denotes Corresponding Author, **†** denotes Co-first Author
+<p class="publication-note"><strong>*</strong> denotes Corresponding Author; <strong>†</strong> denotes Co-first Author.</p>
+
+<nav class="publication-year-nav" aria-label="Publication years">
+  <a href="#2026">2026</a>
+  <a href="#2025">2025</a>
+  <a href="#2024">2024</a>
+  <a href="#2023-and-earlier">2023 and earlier</a>
+</nav>
 
 ## 2026
 

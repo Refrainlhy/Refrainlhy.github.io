@@ -1,8 +1,9 @@
 ---
-layout: archive
+layout: single
 title: "Professional Services"
 permalink: /professional-services/
-author_profile: true
+author_profile: false
+page_class: services-page
 ---
 
 * **Area Chair:** ICLR 2027

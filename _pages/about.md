@@ -2,6 +2,7 @@
 permalink: /
 title: "About Me"
 author_profile: true
+page_class: about-page
 redirect_from: 
   - /about/
   - /about.html
@@ -35,6 +36,11 @@ I am currently an Assistant Professor (Research) at the Department of Computing 
 
 <script>
 (function () {
+  function updateNewsFade(news) {
+    var hasMoreBelow = news.scrollHeight - news.scrollTop - news.clientHeight > 2;
+    news.classList.toggle('news-scroll--more-below', hasMoreBelow);
+  }
+
   function fitNewsToSixItems() {
     var news = document.querySelector('.news-scroll');
     if (!news) return;
@@ -42,14 +48,21 @@ I am currently an Assistant Professor (Research) at the Department of Computing 
     var items = news.querySelectorAll('li');
     if (items.length <= 6) {
       news.style.maxHeight = 'none';
+      news.classList.remove('news-scroll--more-below');
       return;
     }
 
     var newsTop = news.getBoundingClientRect().top;
     var sixthBottom = items[5].getBoundingClientRect().bottom - newsTop + news.scrollTop;
-    var seventhTop = items[6].getBoundingClientRect().top - newsTop + news.scrollTop;
-    var gap = Math.max(0, seventhTop - sixthBottom);
-    news.style.maxHeight = Math.floor(sixthBottom + gap / 2) + 'px';
+    news.style.maxHeight = Math.ceil(sixthBottom + 2) + 'px';
+    updateNewsFade(news);
+  }
+
+  var news = document.querySelector('.news-scroll');
+  if (news) {
+    news.addEventListener('scroll', function () {
+      updateNewsFade(news);
+    }, { passive: true });
   }
 
   fitNewsToSixItems();
@@ -58,16 +71,16 @@ I am currently an Assistant Professor (Research) at the Department of Computing 
 }());
 </script>
 
-## <font color="#CE1126">Position Opening</font>
+## Position Opening
 
-<font color="#CE1126">If you are interested, please send me your CV and transcripts. Thank you!</font>
+If you are interested, please send me your CV and transcripts. Thank you!
 
-* **<font color="#CE1126">[MSc Dissertation or Project]</font>** <font color="#CE1126">PolyU MSc students looking for a dissertation or project supervisor are welcome. Students I have previously supervised received 11 A+/A grades and 4 A-/B+ grades, and some published papers.</font>
-* **<font color="#CE1126">[PhD]</font>** <font color="#CE1126">PhD positions starting in September 2026 or later are now open. Admitted students will be co-supervised by me and our department head, Prof. Qing Li.</font>
-* **<font color="#CE1126">[MPhil]</font>** <font color="#CE1126">Self-funded PhD and MPhil candidates are also welcome.</font>
-* **<font color="#CE1126">[Intern]</font>** <font color="#CE1126">Self-motivated undergraduate and master's students with strong coding skills from PolyU, mainland universities, and elsewhere are welcome. These students will receive priority consideration for future PhD opportunities.</font>
+* **<span class="opening-label">[MSc Dissertation or Project]</span>** PolyU MSc students seeking a dissertation or project supervisor are welcome. My previous students received 11 A+/A and 4 A-/B+ grades, and some also published papers.
+* **<span class="opening-label">[PhD]</span>** Positions starting in September 2026 or later are open, co-supervised by me and our department head, Prof. Qing Li.
+* **<span class="opening-label">[MPhil]</span>** Self-funded PhD and MPhil candidates are also welcome.
+* **<span class="opening-label">[Intern]</span>** Self-motivated undergraduate and master's students with strong coding skills from PolyU, mainland universities, and elsewhere are welcome. These students will receive priority consideration for future PhD opportunities.
 
-<font color="#CE1126">P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPhil candidates. I may also invite experienced PhD graduates to provide additional guidance as needed.</font>
+P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPhil candidates. I may also invite experienced PhD graduates to provide additional guidance as needed.
 
 <!-- *
 ## Selected Preprints  
