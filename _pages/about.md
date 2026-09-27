@@ -7,46 +7,67 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor (Research) at the Department of Computing at [the Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/), working closely with [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). I received my Ph.D. degree in Computer Science and Engineering from [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2023, advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/). Prior to that, I received my Bachelor's degree in Computer Science and Technology from the ACM Honor Class at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in 2018, advised by [Prof. Hai Jin](http://english.cs.hust.edu.cn/info/1296/1201.htm). 
+I am currently an Assistant Professor (Research) at the Department of Computing at [the Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/), working closely with [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). I received my Ph.D. degree in Computer Science and Engineering from [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2023, advised by [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/). Prior to that, I received my Bachelor's degree in Computer Science and Technology from the ACM Honor Class at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in 2018, advised by [Prof. Hai Jin](http://english.cs.hust.edu.cn/info/1296/1201.htm). Email and address: [haoyang-comp.li@polyu.edu.hk](mailto:haoyang-comp.li@polyu.edu.hk), PQ810 PolyU.
 
-Email and address: haoyang-comp.li@polyu.edu.hk, PQ810 PolyU. 
+<div class="research-interests">
+  <p>My main research interests include:</p>
+  <ul>
+    <li>AI Agents and LLMs</li>
+    <li>Data Management and Security</li>
+    <li>AI for Science</li>
+  </ul>
+</div>
 
- 
+## News
 
- **<font color="#CE1126">Position Opening</font>**
- 
-<font color="#CE1126">
- The topics of current research projects include large language models, self supervised-learning, adversarial machine learning, etc. If you are interested, please send me your CV and transcripts. Thank you!
- </font>
+<div class="news-scroll" markdown="1">
 
-* <font color="#CE1126"> MSc students at PolyU who are seeking a dissertation supervisor: please attach your CV and transcripts. My quota is limited. Last year, six students received 4 A+/A, and 2 A-/B+, with published papers. </font> 
+* **Sep 2026:** Received the BESC 2026 Rising Star Award.
+* **Sep 2026:** Six papers accepted at SIGMOD’27, ICDE’27, and NeurIPS’26 (Spotlight).
+* **Aug 2026:** Five papers accepted at EMNLP 2026.
+* **Aug 2026:** I will serve as an Area Chair for ICLR 2027.
+* **Aug 2026:** One paper accepted at CIKM 2026.
+* **Jun 2026:** Three papers accepted at VLDB 2026 (Research, Demo, and Tutorial).
+* **May 2026:** Two papers accepted at KDD 2026.
+* **May 2026:** Co-organizing the AI4Mental Workshop at KDD 2026.
 
-<!-- * <font color="#CE1126"> For PolyU undergraduates, if you choose me as your capstone supervisor, you will work on the most advanced AI work. But please note that hard work will result in a good score, while lack of effort, missed deadlines, or poor teamwork will lead to a lower score. </font> -->
+</div>
 
-* <font color="#CE1126"> Self-motivated undergraduate and master's students with strong coding skills (from PolyU, mainland universities, etc.), who are interested in our research topics, are also welcome. These students will be given priority consideration for PhD opportunities.   </font>
+<script>
+(function () {
+  function fitNewsToSixItems() {
+    var news = document.querySelector('.news-scroll');
+    if (!news) return;
 
+    var items = news.querySelectorAll('li');
+    if (items.length <= 6) {
+      news.style.maxHeight = 'none';
+      return;
+    }
 
+    var newsTop = news.getBoundingClientRect().top;
+    var sixthBottom = items[5].getBoundingClientRect().bottom - newsTop + news.scrollTop;
+    var seventhTop = items[6].getBoundingClientRect().top - newsTop + news.scrollTop;
+    var gap = Math.max(0, seventhTop - sixthBottom);
+    news.style.maxHeight = Math.floor(sixthBottom + gap / 2) + 'px';
+  }
 
-* <font color="#CE1126"> The PhD positions starting from  2026/09 or later are now open. The admitted PhD candidate will be supervised by myself and our department head Prof. Qing Li.   </font>
-  
+  fitNewsToSixItems();
+  window.addEventListener('load', fitNewsToSixItems);
+  window.addEventListener('resize', fitNewsToSixItems);
+}());
+</script>
 
-<!-- * <font color="#CE1126"> Self-motivated full-time Research Assistants (RAs) with strong coding skills are seeked. Part-time RA positions are NOT available. </font>-->
+## <font color="#CE1126">Position Opening</font>
 
-* <font color="#CE1126"> Self-funded PhD/MPhil candidates, dual-degree PhD programme, visiting scholars are also welcome.</font>
+<font color="#CE1126">If you are interested, please send me your CV and transcripts. Thank you!</font>
 
+* **<font color="#CE1126">[MSc Dissertation or Project]</font>** <font color="#CE1126">PolyU MSc students looking for a dissertation or project supervisor are welcome. Students I have previously supervised received 11 A+/A grades and 4 A-/B+ grades, and some published papers.</font>
+* **<font color="#CE1126">[PhD]</font>** <font color="#CE1126">PhD positions starting in September 2026 or later are now open. Admitted students will be co-supervised by me and our department head, Prof. Qing Li.</font>
+* **<font color="#CE1126">[MPhil]</font>** <font color="#CE1126">Self-funded PhD and MPhil candidates are also welcome.</font>
+* **<font color="#CE1126">[Intern]</font>** <font color="#CE1126">Self-motivated undergraduate and master's students with strong coding skills from PolyU, mainland universities, and elsewhere are welcome. These students will receive priority consideration for future PhD opportunities.</font>
 
-
-<font color="#CE1126">
-P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPhil candidates. Additionally, I may invite other excellent PhD graduates to provide guidance as needed.
-</font>
- 
-## Research Interests
-* Large Language Models
-* Graph Foundation Models and GraphRAG
-* Data Management for Machine Learning
-* Data-driven Machine Learning
-* Data and Model Security
-
+<font color="#CE1126">P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPhil candidates. I may also invite experienced PhD graduates to provide additional guidance as needed.</font>
 
 <!-- *
 ## Selected Preprints  
@@ -79,227 +100,3 @@ Jiachuan Wang, Shimin Di, Tianhao Tang, **Haoyang Li**, Charles Wang-wai Ng, Xia
 * **GraphKnow: An Efficient and Effective Graph Foundation Model for Diverse Graph Tasks**
 
 -->
-
-
-
-## Publications [[Full List](https://scholar.google.com.hk/citations?user=r1UMbh0AAAAJ&hl=en)]
-**\*** denotes Corresponding Author, **†** denotes Co-first Author
-
-* **A Survey of Secure Retrieval-Augmented Generation**    
-  Yuming Xu†, Mingtao Zhang†, Zhuohan Ge†, **Haoyang Li\***, Nicole Hu, Yongqi Zhang, Zhiyuan Wen, Chen Jason Zhang, Qing Li, Lei Chen.   
-  The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**)
-
-* **CemLit-IE: Schema-Constrained LLM Extraction for Traceable Cement Strength Databases**  
-  Yanjie Sun, Mengze Hong, Chen Jason Zhang, **Haoyang Li**.  
-  The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**)
-
-* **ExhibitionBench: A Multi-Source, Multi-Task Benchmark for Evaluating LLMs as Exhibition Curation Assistants**  
-  Mengze Hong, Yanjie Sun, Mengyao Zhu, Chen Jason Zhang, Di Jiang, Guoqiong Ivanka Huang, **Haoyang Li**, Zhigang Kou, Shuning Zhang, Wangze Ni, Enhao Huang, Zeyang Lei, Xia Zeng, Sheng Wang, Di Liang.  
-  The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**)
-
-* **StructSynth: Dependency Graphs as Generation Plans for Low-Data Tabular Synthesis with Language Models**    
-  Siyi Liu, Yujia Zheng, **Haoyang Li**, Yongqi Zhang.   
-  The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**)   
-
-* **SurveyLens: A Discipline-Aware Benchmark for Automatic Survey Generation**    
-  Beichen Guo, Zhiyuan Wen, Jia Gu, Haochen Shi, Jian Wang, Senzhang Wang, **Haoyang Li**, Ruosong Yang, Shuaiqi Liu.   
-  The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**)
-
-
-* **EnhanceGraph: A Continuously Enhanced Graph-based Index for High-dimensional Approximate Nearest Neighbor Search**  
-  Xiaoyao Zhong, Jiabao Jin, Peng Cheng, Mingyu Yang, **Haoyang Li**, Zhitao Shen, Jingkuan Song, Heng Tao Shen.  
-  IEEE Transactions on Knowledge and Data Engineering (**TKDE 2026**)  
-  
-
-* **PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs**    
-Ying Liu, Yi Ye, Quanyu Feng, Mingxi Ye, Mingtao Zhang, **Haoyang Li\***, Chen Jason Zhang, Qing Li.    
-35th International ACM Conference on Knowledge and Information Management (**CIKM 2026, Demo Track**) 
-
-
-*  **Graph Foundation Models: State of the Art and Future Directions**\
-  Alexander Zhou, **Haoyang Li**, Lei Chen\
-  The 52nd International Conference on Very Large Data Base (**VLDB 2026, Tutorial**)
-
-
-* **GraphAgent: An Effective Knowledge-Guided GNN Model Selection System**  
-Mingtao Zhang,  **Haoyang Li\***, Yuming Xu, Nicole Hu, Peng Cheng, Chen Jason Zhang, Qing Li, Lei Chen.   
-The 52nd International Conference on Very Large Data Base (**VLDB 2026, Demo Track**) 
-
-
-
-* **ClinicalAgents: Multi-Agent Orchestration for Clinical Decision Making with Dual-Memory**    
-  Zhuohan Ge, **Haoyang Li\***, Yubo Wang, Nicole Hu, Chen Jason Zhang, Qing Li.   
-  The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2026**)   
-
-* **M²DDI: A Unified Framework for Dynamic Multimodal Fusion in Drug-Drug Interaction Prediction**  
-  Runqing Xu, Siyi Liu, **Haoyang Li**, Hao Li, Yongqi Zhang.   
-  The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2026**)   
-
-* **MGRAG: Semantic Subgraph Matching and Graph-Aware Caching for Multimodal Retrieval-Augmented Generation**      
-Yubo Wang,  **Haoyang Li\***, Lei Chen      
-The 52nd International Conference on Very Large Data Base (**VLDB 2026**) 
-
-
-* **Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees**  
-Luyu Qiu, Yuming Xu,  **Haoyang Li\***, Chen Jason Zhang, Alexander Zhou, Peng Cheng, Lei Chen, Qing Li.  
-The VLDB Journal (**VLDBJ 2026**)
-
-* **The Person Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Models**  
-Lixu Wang, Kaixiang Yao, Xinfeng Li, Dong Yang, **Haoyang Li**, Xiaofeng Wang, Wei Dong.  
-The 47th IEEE Symposium on Security and Privacy (**IEEE S&P 2026**)
-
-* **From Rigid to Dynamic: Entropy-Guided Adaptive Inference for Long-Context LLMs**   
-  Zhanchao Xu, **Haoyang Li\***, Qingfa Xiao, Fei Teng, Mingtao Zhang, Zhuohan Ge, Nicole Hu, Yuming Xu, Chen Jason Zhang   
-  **ICPP AIRS 2026**
-
-* **Skyline Retrieval meets Set-Cover Chunk Merging: A Cost-Effective RAG-Sketch for Long-Context LLM QA**  
-Xinyi Zhu, **Haoyang Li\***, Yongqi Zhang, Lei Chen.  
-The 2026 International Conference on Management of Data (**SIGMOD 2026**)
-
-* **AGRAG: Advanced Graph-based Retrieval-Augmented Generation for LLMs**    
-Yubo Wang, **Haoyang Li\***, Fei Teng, Lei Chen.    
-The 42nd  IEEE International Conference on Data Engineering (**ICDE 2026**)
-
-
-* **AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large Language Models**  
-Kai Li, Can Shen,..., **Haoyang Li**, ..., Wei Dong, Xinfeng Li.  
-The Fourteenth International Conference on Learning Representations (**ICLR 2026**)
-
-* **Multi-Agent Causal Reasoning for Suicide Ideation Detection Through Online Conversations**   
-Jun Li, Xiangmeng Wang, **Haoyang Li**, Yifei Yan, Shijie Zhang, Hong Va Leong, Ling Feng, Nancy Xiaonan Yu, Qing Li.   
-The 31st International Conference on Database Systems for Advanced Applications (**DASFAA 2026**)
-
-
-
-* **Efficient GNN Training on Giant Graphs with Collective Batching and Scheduling**      
-Xin Zhang, Yanyan Shen, Yingxia Shao, **Haoyang Li**, Lei Chen      
-The 52nd International Conference on Very Large Data Base (**VLDB 2026**) 
-    
-* **GORAG: Graph-based Online Retrieval Augmented Generation for Dynamic Few-shot Social Media Text Classification**   
-Yubo Wang, **Haoyang Li\***, Fei Teng, Lei Chen.    
-The ACM Web Conference 2026 (**WWW 2026**)
-    
-* **LLMLog: Advanced Log Template Generation via LLM-driven Multi-Round Annotation**   
- Fei Teng, **Haoyang Li\***, Lei Chen.  
-The 51st International Conference on Very Large Data Base (**VLDB 2025**)
-
-
-* **A Survey on Large Language Model Acceleration based on KV Cache Management**  
-**Haoyang Li**, Yiming Li, Anxin Tian, Tianhao Tang, Zhanchao Xu, Xuejia Chen, Nicole Hu, Wei Dong, Qing Li, Lei Chen.   
-Transactions on Machine Learning Research (**TMLR 2025**)
-
-
-
-* **Exposing Numeracy Gaps: A Benchmark to Evaluate Fundamental Numerical Abilities in Large Language Models**  
-**Haoyang Li**, Xuejia Chen, Zhanchao Xu, Darian Li, Nicole Hu, Fei Teng, Yiming Li, Luyu Qiu, Chen Jason Zhang, Qing Li, Lei Chen.  
-The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**)
-
-- **HDLdebugger: Streamlining HDL Debugging with Large Language Models**\
-  Xufeng Yao†, **Haoyang Li†**, Tsz Ho Chan†, Wenyi Xiao, Mingxuan Yuan, Yu Huang, Lei Chen, Bei Yu\
-  ACM Transactions on Design Automation of Electronic Systems (**TODAES 2025**)
-
-* **When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction**     
-**Haoyang Li**, Yuming Xu, Yiming Li, Hanmo Liu, Darian Li, Chen Jason Zhang, Lei Chen, Qing Li.  
-The 51st International Conference on Very Large Data Base (**VLDB 2025**)
-
-* **Dynamic Service Knowledge Base Construction at WeChat**  
-**Haoyang Li**, Ziyuan Zhao, Xueling Lin,  Alexander Zhou, Hao Xin, Fengmei Jin,  Qiang Yan, Tiezheng Mao,  Zijian Li,   Qing Li, Lei Chen   
-The 21st International Conference on Advanced Data Mining and Applications (**ADMA 2025**)
-
-* **Understanding the Embedding Models on Hyper-relational Knowledge Graphs**   
-Yubo Wang, Shimin Di, Zhili Wang, **Haoyang Li**, Fei Teng, Hao Xin, Lei Chen.   
-The 33rd ACM International Conference on Information and Knowledge Management (**CIKM 2025**)
-
-* **DynaProtect: A Dynamic Factor Influence Learning Framework for Protective Factor-aware Suicide Risk Prediction**     
-Jun Li, Xiangmeng Wang, Yifei Yan, **Haoyang Li**, Hong Va Leong, Nancy Yu, Qing Li.  
-Companion Proceedings of the ACM on Web Conference 2025 （**WWW Tempweb 2025**）  
-
-
-
-* **Fast and Faithful: A Lightweight Spatio-Temporal GNN for Semi-Supervised Air Quality Forecasting with Inductive Capability**\
-  Yuming Xu, Zhanchao Xu, Yaowen Liu, Xuejia Chen, Qi Chen, Mingtao Zhang, Zhuohan Ge, **Haoyang Li\***, Chen Jason Zhang\
-  The 2025 IEEE International Conference on Big Data (**BigData 2025**)
-
-
-* **A Selective Learning Method for Temporal Graph Continual Learning**    
-Hanmo Liu, Shimin Di, **Haoyang Li**, Xun Jian, Yue Wang, Lei Chen.    
-The 42nd International Conference on Machine Learning (**ICML 2025**)
-
-
-
-
-* **SIT: Selective Incremental Training for Dynamic Knowledge Graph Embedding**  
- Zhifeng Jia, Hanmo Liu, **Haoyang Li\***, Lei Chen.  
- The 41st  IEEE International Conference on Data Engineering (**ICDE 2025**)
-
-  
-* **Fight Fire with Fire: Towards Robust Graph Neural Networks on Dynamic Graphs via Actively Defense**  
- **Haoyang Li**, Shimin Di, Calvin Hong Yi Li, Lei Chen, Xiaofang Zhou.  
- The 50th International Conference on Very Large Databases (**VLDB 2024**)
-
-* **E2GCL: Efficient and Expressive Contrastive Learning on Graph Neural Networks**  
- **Haoyang Li**, Shimin Di, Lei Chen, Xiaofang Zhou.  
- The 40th  IEEE International Conference on Data Engineering (**ICDE 2024**)
-  
-
-* **Effective Data Selection and Replay for Unsupervised Continual Learning**    
- Hanmo Liu, Shimin Di, **Haoyang Li**, Shuangyin Li, Lei Chen, Xiaofang Zhou.   
- The 40th  IEEE International Conference on Data Engineering (**ICDE 2024**)
-
-* **EARLY: Efficient and Reliable Graph Neural Network for Dynamic Graphs**  
- **Haoyang Li**, Lei Chen.  
-The 2023 International Conference on Management of Data (**SIGMOD 2023**)
-
-* **AIR: Adaptive Incremental Embedding Updating for Dynamic Knowledge Graphs**  
-Zhifeng Jia, **Haoyang Li**, Lei Chen.   
-The 28th International Conference on Database Systems for Advanced Applications (**DASFAA 2023**)
-
-* **Revisiting Injective Attacks on Recommender Systems**   
- **Haoyang Li**, Shimin Di, Lei Chen.  
- The 36th Conference on Neural Information Processing Systems (**NeurIPS 2022**)
-
-
-* **Black-box Adversarial Attack and Defense on Graph Neural Networks**  
- **Haoyang Li**, Shimin Di, Zijian Li, Lei Chen, Jiannong Cao.  
-The 38th  IEEE International Conference on Data Engineering (**ICDE 2022**)
-
-
-* **Cache-based GNN System for Dynamic Graphs**  
- **Haoyang Li**, Lei Chen.  
-The 30th ACM International Conference on Information and Knowledge Management (**CIKM 2021**)
-
-
-
-* **Fine-Grained Entity Typing via Label Noise Reduction and Data Augmentation**  
- **Haoyang Li**, Xueling Lin, Lei Chen.   
-The 26th International Conference on Database Systems for Advanced Applications (**DASFAA 2021**) 
-
-
-* **KBPearl: a Knowledge Base Population System Supported by Joint Entity and Relation Linking**  
-  Xueling Lin, **Haoyang Li**, Hao Xin, Zijian Li, Lei Chen.   
-  The 46th International Conference on Very Large Databases (**VLDB 2020**)  
-
-## Teaching
-* COMP5575: High-Dimensional Data Management and Analytics, PolyU (2025/26 Semester 2, 32 students, SFQ 4.8/5, Top 10%) 
-* COMP5572: AI Applications in the Humanities, PolyU (2024/25 Semester 2, 67 students, SFQ 4.7/5, Top 10%)
-
-
-## Professional Academic Service
-* **Guest Editor:** IEEE Transactions on Computational Social Systems
-* **Workshop Chair:**
-  - Cognitive and Mental Health Disorder Detection on Social Media at ICDE’2025
-  - Mental Health Disorder Detection on Social Media at ICDM’2025 
-* **Web Chair:** International Conference on Advanced Data Mining and Applications (ADMA) 2026
-* **BigData Cup Challenge 2025 Organizer:** Suicide Risk Prediction on Social Media
-* **Track Co-chair:** The 31st IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2026, Big Data Track 
-* **PC Member:** ICDE, DASFAA, WWW, AAAI, ECAI
-* **Conference Reviewer:** KDD, ICML, ICLR, NeurIPS, AISTATS, WWW
-* **Journal Reviewer:** TKDE, TOIS, TBD, TETCI, Neural Network
-
-<!-- *
-* **PC Member:** WWW 2025, ICDE 2025, AAAI 2025,  DASFAA 2025/2024, ECAI 2024, RobustRecSys 2024  
-* **Conference Reviewer:** KDD 2025-2020, AISTATS 2025, ICML 2025/2024/2023, ICLR 2025/2024/2023, NeurIPS 2024/2023,  WWW 2021/2022  
-* **Journal Reviewer:** TKDE, TOIS, TBD, TETCI, Neural Networks
--->
-
-

@@ -39,3 +39,24 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.news-scroll {
+  max-height: 14.9rem;
+  overflow-y: auto;
+  padding-right: 0.75rem;
+  scrollbar-gutter: stable;
+  overscroll-behavior: contain;
+}
+
+.news-scroll ul {
+  margin-top: 0;
+}
+
+.research-interests p {
+  margin-bottom: 0.25rem;
+}
+
+.research-interests ul {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}

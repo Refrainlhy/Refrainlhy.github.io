@@ -16,8 +16,11 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    {{ content }} 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=n&d=HQDYoBQD4PPHAwhXDbkaqpI3BuUIGT_qSYzylMM2G9Q&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>    <div class="page__footer">
+    {{ content }}
+    {% if page.permalink == "/" %}
+      <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=n&d=HQDYoBQD4PPHAwhXDbkaqpI3BuUIGT_qSYzylMM2G9Q&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+    {% endif %}
+    <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
         {% include footer.html %}
