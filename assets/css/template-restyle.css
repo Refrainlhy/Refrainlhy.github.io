@@ -1,14 +1,23 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;450;500;600&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap");
 
 :root {
-  --restyle-ink: #111;
-  --restyle-line: #d8d8d8;
-  --restyle-soft-line: #ececec;
-  --polyu-red: #a02337;
+  --restyle-ink: #202428;
+  --restyle-text: #50575d;
+  --restyle-muted: #70787e;
+  --restyle-line: #e3e6e8;
+  --restyle-soft-line: #f0f2f3;
+  --polyu-red: #985062;
+  --restyle-blue: #69bde2;
+  --restyle-link: #237ab1;
+}
+
+html {
+  overflow-y: scroll;
+  scrollbar-gutter: stable;
 }
 
 body {
-  color: var(--restyle-ink);
+  color: var(--restyle-text);
   font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   font-weight: 400;
   line-height: 1.62;
@@ -29,18 +38,23 @@ h6,
   font-weight: 600;
 }
 
+.page__title {
+  font-size: 1.68em;
+  line-height: 1.08;
+}
+
 a,
 a:visited {
-  color: var(--restyle-ink);
-  text-decoration-color: #777;
+  color: var(--restyle-link);
+  text-decoration-color: var(--restyle-blue);
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
 }
 
 a:hover,
 a:focus-visible {
-  color: #000;
-  text-decoration-color: #000;
+  color: #175f8c;
+  text-decoration-color: #3d9fca;
 }
 
 .masthead,
@@ -62,7 +76,7 @@ a:focus-visible {
 .author__urls i,
 .page__footer,
 .page__footer a {
-  color: var(--restyle-ink);
+  color: var(--restyle-text);
 }
 
 .greedy-nav a,
@@ -97,6 +111,35 @@ a:focus-visible {
   font-weight: 450;
 }
 
+.page__content strong {
+  color: #353a3e;
+  font-weight: 600;
+}
+
+.page__content a,
+.page__content a:visited {
+  color: var(--restyle-link);
+  text-decoration-color: #78c7e7;
+}
+
+.page__content a:hover,
+.page__content a:focus-visible {
+  color: #175f8c;
+  text-decoration-color: #3d9fca;
+}
+
+.author__urls a,
+.author__urls a:visited {
+  color: #4b5359;
+  text-decoration-color: #c7ccd0;
+}
+
+.author__urls a:hover,
+.author__urls a:focus-visible {
+  color: #202428;
+  text-decoration-color: #747d84;
+}
+
 .page__content li,
 .page__content p {
   line-height: 1.62;
@@ -107,6 +150,7 @@ a:focus-visible {
 }
 
 .page__content h2 {
+  font-size: 1.32em;
   margin-top: 1.9em;
   margin-bottom: 0.8em;
   padding-bottom: 0.4em;
@@ -169,7 +213,7 @@ a:focus-visible {
 }
 
 .news-scroll::-webkit-scrollbar-thumb {
-  background: #b5b5b5;
+  background: #c3c7ca;
   border: 2px solid #fff;
   border-radius: 999px;
 }
@@ -195,7 +239,7 @@ a:focus-visible {
 
 #position-opening + p + ul + p {
   margin-top: 0;
-  color: #444;
+  color: var(--restyle-muted);
   font-size: 0.94em;
   line-height: 1.5;
 }
@@ -212,9 +256,9 @@ a:focus-visible {
   display: none;
 }
 
-.publications-page,
-.teaching-page,
-.services-page {
+.page.publications-page,
+.page.teaching-page,
+.page.services-page {
   float: none;
   width: auto;
   max-width: 920px;
@@ -223,12 +267,12 @@ a:focus-visible {
   padding-right: 0;
 }
 
-.publications-page {
+.page.publications-page {
   max-width: 920px;
 }
 
-.teaching-page,
-.services-page {
+.page.teaching-page,
+.page.services-page {
   max-width: 804px;
 }
 
@@ -248,7 +292,7 @@ a:focus-visible {
 
 .publication-note {
   margin: 0;
-  color: #555;
+  color: var(--restyle-muted);
   font-size: 0.9em;
 }
 
@@ -260,13 +304,13 @@ a:focus-visible {
 }
 
 .publication-year-nav a {
-  color: #555;
+  color: var(--restyle-muted);
   text-decoration: none;
 }
 
 .publication-year-nav a:hover,
 .publication-year-nav a:focus-visible {
-  color: #000;
+  color: #303438;
   text-decoration: underline;
 }
 
@@ -294,7 +338,7 @@ a:focus-visible {
 
 .publications-page .page__content h2 + ul > li > p {
   margin: 0;
-  color: #555;
+  color: var(--restyle-text);
   font-size: 0.96em;
   line-height: 1.44;
 }
@@ -308,7 +352,7 @@ a:focus-visible {
 }
 
 .publications-page .page__content h2 + ul > li > p > strong:not(:first-child) {
-  color: #222;
+  color: #444b50;
   font-weight: 600;
 }
 
@@ -328,7 +372,7 @@ a:focus-visible {
 
 .teaching-term,
 .teaching-row span {
-  color: #555;
+  color: var(--restyle-muted);
 }
 
 .teaching-term {
@@ -367,6 +411,30 @@ a:focus-visible {
 }
 
 @media (max-width: 640px) {
+  html,
+  body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  #main,
+  .page,
+  .page__inner-wrap,
+  .page__content {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+  }
+
+  .page__content {
+    overflow-wrap: anywhere;
+  }
+
+  .news-scroll {
+    max-width: 100%;
+  }
+
   .teaching-row {
     grid-template-columns: 1fr;
     gap: 0.35em;
