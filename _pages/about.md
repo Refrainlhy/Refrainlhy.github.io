@@ -23,6 +23,7 @@ I am currently an Assistant Professor (Research) at the Department of Computing 
 
 <div class="news-scroll" markdown="1">
 
+* **Sep 2026:** One paper received the AIRS@ICPP 2026 Best Paper Award.
 * **Sep 2026:** Received the BESC 2026 Rising Star Award.
 * **Sep 2026:** Six papers accepted at SIGMOD’27, ICDE’27, and NeurIPS’26 (Spotlight).
 * **Aug 2026:** Five papers accepted at EMNLP 2026.
