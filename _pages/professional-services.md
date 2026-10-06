@@ -10,7 +10,7 @@ page_class: services-page
 * **Guest Editor:** IEEE Transactions on Computational Social Systems
 * **Workshop Chair:**
   - Cognitive and Mental Health Disorder Detection on Social Media at ICDE’2025
-  - Mental Health Disorder Detection on Social Media at ICDM’2025
+  - Mental Health Disorder Detection on Social Media at ICDM’2025, 2026
   - The International Workshop on AI for Cognitive and Mental Health Support at KDD’2026
 * **Web Chair:** International Conference on Advanced Data Mining and Applications (ADMA) 2026
 * **Proceedings Chair:**
