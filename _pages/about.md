@@ -74,7 +74,7 @@ I am currently an Assistant Professor (Research) at the Department of Computing 
 
 ## Position Opening
 
-If you are interested, please send me your CV and transcripts. Thank you!
+If you are interested, please send me your CV. PhD and MPhil applicants should also include their transcripts. Thank you!
 
 * **<span class="opening-label">[MSc Dissertation or Project]</span>** PolyU MSc students seeking a dissertation or project supervisor are welcome. My previous students received 11 A+/A and 4 A-/B+ grades, and some also published papers.
 * **<span class="opening-label">[PhD]</span>** Positions starting in September 2026 or later are open, co-supervised by me and our department head, Prof. Qing Li.
