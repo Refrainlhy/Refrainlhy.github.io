@@ -19,10 +19,22 @@ I am currently an Assistant Professor (Research) at the Department of Computing 
   </ul>
 </div>
 
+## Position Opening
+
+If you are interested, please send me your CV. PhD and MPhil applicants should also include their transcripts. Thank you!
+
+* **<span class="opening-label">[MSc Dissertation or Project]</span>** PolyU MSc students seeking a dissertation or project supervisor are welcome. My previous students received 11 A+/A and 4 A-/B+ grades, and some also published papers.
+* **<span class="opening-label">[PhD]</span>** Positions starting in September 2026 or later are open, co-supervised by me and our department head, Prof. Qing Li.
+* **<span class="opening-label">[MPhil]</span>** Self-funded PhD and MPhil candidates are also welcome.
+* **<span class="opening-label">[Intern]</span>** Self-motivated undergraduate and master's students with strong coding skills from PolyU, mainland universities, and elsewhere are welcome. These students will receive priority consideration for future PhD opportunities.
+
+P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPhil candidates. I may also invite experienced PhD graduates to provide additional guidance as needed.
+
 ## News
 
 <div class="news-scroll" markdown="1">
 
+* **Oct 2026:** One paper accepted at VLDB 2027.
 * **Sep 2026:** One paper received the AIRS@ICPP 2026 Best Paper Award.
 * **Sep 2026:** Received the BESC 2026 Rising Star Award.
 * **Sep 2026:** Six papers accepted at SIGMOD’27, ICDE’27, and NeurIPS’26 (Spotlight).
@@ -71,17 +83,6 @@ I am currently an Assistant Professor (Research) at the Department of Computing 
   window.addEventListener('resize', fitNewsToSixItems);
 }());
 </script>
-
-## Position Opening
-
-If you are interested, please send me your CV. PhD and MPhil applicants should also include their transcripts. Thank you!
-
-* **<span class="opening-label">[MSc Dissertation or Project]</span>** PolyU MSc students seeking a dissertation or project supervisor are welcome. My previous students received 11 A+/A and 4 A-/B+ grades, and some also published papers.
-* **<span class="opening-label">[PhD]</span>** Positions starting in September 2026 or later are open, co-supervised by me and our department head, Prof. Qing Li.
-* **<span class="opening-label">[MPhil]</span>** Self-funded PhD and MPhil candidates are also welcome.
-* **<span class="opening-label">[Intern]</span>** Self-motivated undergraduate and master's students with strong coding skills from PolyU, mainland universities, and elsewhere are welcome. These students will receive priority consideration for future PhD opportunities.
-
-P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPhil candidates. I may also invite experienced PhD graduates to provide additional guidance as needed.
 
 <!-- *
 ## Selected Preprints  
