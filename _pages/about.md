@@ -54,20 +54,20 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
     news.classList.toggle('news-scroll--more-below', hasMoreBelow);
   }
 
-  function fitNewsToSixItems() {
+  function fitNewsToTwelveItems() {
     var news = document.querySelector('.news-scroll');
     if (!news) return;
 
     var items = news.querySelectorAll('li');
-    if (items.length <= 6) {
+    if (items.length <= 12) {
       news.style.maxHeight = 'none';
       news.classList.remove('news-scroll--more-below');
       return;
     }
 
     var newsTop = news.getBoundingClientRect().top;
-    var sixthBottom = items[5].getBoundingClientRect().bottom - newsTop + news.scrollTop;
-    news.style.maxHeight = Math.ceil(sixthBottom + 2) + 'px';
+    var twelfthBottom = items[11].getBoundingClientRect().bottom - newsTop + news.scrollTop;
+    news.style.maxHeight = Math.ceil(twelfthBottom + 2) + 'px';
     updateNewsFade(news);
   }
 
@@ -78,9 +78,9 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
     }, { passive: true });
   }
 
-  fitNewsToSixItems();
-  window.addEventListener('load', fitNewsToSixItems);
-  window.addEventListener('resize', fitNewsToSixItems);
+  fitNewsToTwelveItems();
+  window.addEventListener('load', fitNewsToTwelveItems);
+  window.addEventListener('resize', fitNewsToTwelveItems);
 }());
 </script>
 
