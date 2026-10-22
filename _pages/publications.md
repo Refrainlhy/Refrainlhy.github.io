@@ -14,13 +14,44 @@ page_class: publications-page
 <p class="publication-note"><strong>*</strong> denotes Corresponding Author; <strong>†</strong> denotes Co-first Author.</p>
 
 <nav class="publication-year-nav" aria-label="Publication years">
+  <a href="#2027">2027</a>
   <a href="#2026">2026</a>
   <a href="#2025">2025</a>
   <a href="#2024">2024</a>
   <a href="#2023-and-earlier">2023 and earlier</a>
 </nav>
 
+## 2027
+
+* **GRACE: A Dynamic Coreset Selection Framework for Large Language Model Training Optimization**<br>
+  Tianhao Tang, **Haoyang Li\***, Lei Chen.<br>
+  The 2027 ACM SIGMOD International Conference on Management of Data (**SIGMOD 2027**)
+
+* **QCFuse: Query-Aware Cache Fusion via Compressed View for Efficient RAG Serving**<br>
+  Jianxin Yan, Wangze Ni, Zhenxin Li, Jiabao Jin, Zhitao Shen, **Haoyang Li**, Jia Zhu, Peng Cheng, Xuemin Lin, Lei Chen, Kui Ren.<br>
+  The 53rd International Conference on Very Large Data Bases (**VLDB 2027**)
+
+* **XOver: Execution-Calibrated Exemplar Contextualization for Multilingual Text-to-OverpassQL on OpenStreetMap**<br>
+  Zhuoyue Wan, Jiaqi Fan, Hwanhee Kim, Chen Jason Zhang, Shuamin Li, Yuanfeng Song, **Haoyang Li\***, Xiao-Yong Wei, Raymond Chi-Wing Wong.<br>
+  The 43rd IEEE International Conference on Data Engineering (**ICDE 2027**)
+
+* **Hypergraph-Enhanced Evidence Selection for Long-Context Multimodal Document QA**<br>
+  Wenxin Zhao, Jiachuan Wang, Xinyi Zhu, Jiake Ge, **Haoyang Li**, Yongqi Zhang, Shuangyin Li, Lei Chen.<br>
+  The 43rd IEEE International Conference on Data Engineering (**ICDE 2027**)
+
+* **Robust Model Selection for Graph Neural Networks via Knowledge-Guided Evidence Learning**<br>
+  Mingtao Zhang, **Haoyang Li\***, Yang Yang, Yuming Xu, Nicole Hu, Chen Jason Zhang, Lei Chen, Qing Li.<br>
+  The 43rd IEEE International Conference on Data Engineering (**ICDE 2027**)
+
+* **Text-to-RLS: Towards Constraint-Anchored Row-Level Security in Natural Language Database Interfaces**<br>
+  Jiaqi Fan, Zhuoyue Wan, Chen Jason Zhang, Xiao-Yong Wei, **Haoyang Li**, Yuanfeng Song, Wangze Ni, Raymond Chi-Wing Wong.<br>
+  The 43rd IEEE International Conference on Data Engineering (**ICDE 2027**)
+
 ## 2026
+
+* **VisInteract: Towards Dynamic Interactive Text-to-Visualization under Imperfect Queries**<br>
+  Wenxin Xu, Jinwei Lu, Hwanhee Kim, Chen Jason Zhang, Xiao-Yong Wei, **Haoyang Li**, Yuanfeng Song.<br>
+  The Conference on Neural Information Processing Systems (**NeurIPS 2026, Spotlight**)
 
 * **A Survey of Secure Retrieval-Augmented Generation**<br>
   Yuming Xu†, Mingtao Zhang†, Zhuohan Ge†, **Haoyang Li\***, Nicole Hu, Yongqi Zhang, Zhiyuan Wen, Chen Jason Zhang, Qing Li, Lei Chen.<br>
