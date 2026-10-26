@@ -34,6 +34,7 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
 
 <div class="news-scroll" markdown="1">
 
+* **Oct 2026:** I will serve as an Area Chair for ARR 2026.
 * **Oct 2026:** One paper accepted at VLDB 2027.
 * **Sep 2026:** One paper received the AIRS@ICPP 2026 Best Paper Award.
 * **Sep 2026:** Received the BESC 2026 Rising Star Award.
@@ -54,20 +55,20 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
     news.classList.toggle('news-scroll--more-below', hasMoreBelow);
   }
 
-  function fitNewsToTwelveItems() {
+  function fitNewsToFifteenItems() {
     var news = document.querySelector('.news-scroll');
     if (!news) return;
 
     var items = news.querySelectorAll('li');
-    if (items.length <= 12) {
+    if (items.length <= 15) {
       news.style.maxHeight = 'none';
       news.classList.remove('news-scroll--more-below');
       return;
     }
 
     var newsTop = news.getBoundingClientRect().top;
-    var twelfthBottom = items[11].getBoundingClientRect().bottom - newsTop + news.scrollTop;
-    news.style.maxHeight = Math.ceil(twelfthBottom + 2) + 'px';
+    var fifteenthBottom = items[14].getBoundingClientRect().bottom - newsTop + news.scrollTop;
+    news.style.maxHeight = Math.ceil(fifteenthBottom + 2) + 'px';
     updateNewsFade(news);
   }
 
@@ -78,9 +79,9 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
     }, { passive: true });
   }
 
-  fitNewsToTwelveItems();
-  window.addEventListener('load', fitNewsToTwelveItems);
-  window.addEventListener('resize', fitNewsToTwelveItems);
+  fitNewsToFifteenItems();
+  window.addEventListener('load', fitNewsToFifteenItems);
+  window.addEventListener('resize', fitNewsToFifteenItems);
 }());
 </script>
 

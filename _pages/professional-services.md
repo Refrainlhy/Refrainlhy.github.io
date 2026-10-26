@@ -6,7 +6,7 @@ author_profile: false
 page_class: services-page
 ---
 
-* **Area Chair:** ICLR 2027
+* **Area Chair:** ARR 2026; ICLR 2027
 * **Guest Editor:** IEEE Transactions on Computational Social Systems
 * **Workshop Chair:**
   - Cognitive and Mental Health Disorder Detection on Social Media at ICDE’2025
