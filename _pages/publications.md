@@ -23,6 +23,14 @@ page_class: publications-page
 
 ## 2027
 
+* **RST-Sketch: Rethinking Scalable LLM-based Summarization Beyond Query-Driven Retrieval**<br>
+  Xinyi Zhu, **Haoyang Li\***, Yongqi Zhang, Xujia Li, Lei Chen.<br>
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2027**)
+
+* **Weave: A Workflow Management System for LLM Agents**<br>
+  Suyang Ma, Yanling Xu, **Haoyang Li**, Minyang Hu, Xiongwei Han, Xiaofei Liao, Hai Jin, Qinbin Li.<br>
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2027**)
+
 * **GRACE: A Dynamic Coreset Selection Framework for Large Language Model Training Optimization**<br>
   Tianhao Tang, **Haoyang Li\***, Lei Chen.<br>
   The 2027 ACM SIGMOD International Conference on Management of Data (**SIGMOD 2027**)

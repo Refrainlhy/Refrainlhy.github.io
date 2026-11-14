@@ -34,6 +34,7 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
 
 <div class="news-scroll" markdown="1">
 
+* **Nov 2026:** Two papers accepted at KDD 2027.
 * **Oct 2026:** I will serve as an Area Chair for ARR 2026.
 * **Oct 2026:** One paper accepted at VLDB 2027.
 * **Sep 2026:** One paper received the AIRS@ICPP 2026 Best Paper Award.
