@@ -30,6 +30,7 @@ If you are interested, please send me your CV. PhD and MPhil applicants should a
 
 P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPhil candidates. I may also invite experienced PhD graduates to provide additional guidance as needed.
 
+{% comment %} NEWS_SECTION_MASKED
 ## News
 
 <div class="news-scroll" markdown="1">
@@ -85,6 +86,7 @@ P.S.: I will personally mentor all students, including interns, RAs, and PhD/MPh
   window.addEventListener('resize', fitNewsToFifteenItems);
 }());
 </script>
+{% endcomment %}
 
 <!-- *
 ## Selected Preprints  

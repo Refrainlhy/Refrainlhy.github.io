@@ -14,13 +14,14 @@ page_class: publications-page
 <p class="publication-note"><strong>*</strong> denotes Corresponding Author; <strong>†</strong> denotes Co-first Author.</p>
 
 <nav class="publication-year-nav" aria-label="Publication years">
-  <a href="#2027">2027</a>
+  {% comment %}<a href="#2027">2027</a>{% endcomment %}
   <a href="#2026">2026</a>
   <a href="#2025">2025</a>
   <a href="#2024">2024</a>
   <a href="#2023-and-earlier">2023 and earlier</a>
 </nav>
 
+{% comment %} PUBLICATIONS_2027_MASKED
 ## 2027
 
 * **RST-Sketch: Rethinking Scalable LLM-based Summarization Beyond Query-Driven Retrieval**<br>
@@ -54,6 +55,7 @@ page_class: publications-page
 * **Text-to-RLS: Towards Constraint-Anchored Row-Level Security in Natural Language Database Interfaces**<br>
   Jiaqi Fan, Zhuoyue Wan, Chen Jason Zhang, Xiao-Yong Wei, **Haoyang Li**, Yuanfeng Song, Wangze Ni, Raymond Chi-Wing Wong.<br>
   The 43rd IEEE International Conference on Data Engineering (**ICDE 2027**)
+{% endcomment %}
 
 ## 2026
 
